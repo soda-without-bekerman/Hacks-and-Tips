@@ -8,7 +8,11 @@
 
 ### примеры
 
+поиск только по доменам оканчивающимся на **.ru**
+
 [`3d модели site:.ru`](https://www.google.ru/search?q=3d+%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8+site%3A.ru&oq=3d+%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8+site%3A.ru&aqs=chrome..69i57.345j0j9&sourceid=chrome&espv=210&es_sm=91&ie=UTF-8)
+
+поиск по домену **habrahabr.ru**
 
 [`3d модели site:habrahabr.ru`](https://www.google.ru/search?q=3d+%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8+site%3Ahabrahabr.ru&oq=3d+%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8+site%3Ahabrahabr.ru&aqs=chrome..69i57.352j0j9&sourceid=chrome&espv=210&es_sm=91&ie=UTF-8)
 
