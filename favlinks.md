@@ -5,3 +5,8 @@
 **FAQ**
 
 [ГосЗатраты](http://clearspending.ru/page/about/faq/)
+
+**Полезно**
+
+[Открытые данные в России](http://habrahabr.ru/company/infoculture/blog/201892/)
+
