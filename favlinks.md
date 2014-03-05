@@ -10,3 +10,4 @@
 
 [Открытые данные в России](http://habrahabr.ru/company/infoculture/blog/201892/)
 
+[YotaPhone. Смотри в оба. Как двухэкранный смартфон удивил мир, но насмешил Россию](http://slon.ru/biz/1063003/)
