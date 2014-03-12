@@ -1,11 +1,9 @@
-
- **Markdown** — это язык разметки. Созданный в 2004 году Джоном Грубером и Аароном Шварцем, целью которых являлось, создание максимально удобно читаемого и удобного в публикации языка разметки. Многие идеи языка были позаимствованы из существующих соглашений по разметке текста в электронных письмах. Реализации языка **Markdown** преобразуют текст в формате **Markdown** в валидный, правильно построенный XHTML и заменяет левые угловые скобки («<») и амперсанды («&») на соответствующие коды сущностей. Первой реализацией **Markdown** стала написанная Грубером реализация на Perl, однако спустя некоторое время появилось множество реализаций от сторонних разработчиков. Реализация на Perl распространяется по лицензии типа BSD. Реализации **Markdown** на различных языках программирования включены (или доступны в качестве плагина) во многие системы управления содержимым.
+**Markdown** — это язык разметки. Созданный в 2004 году Джоном Грубером и Аароном Шварцем, целью которых являлось, создание максимально удобно читаемого и удобного в публикации языка разметки. Многие идеи языка были позаимствованы из существующих соглашений по разметке текста в электронных письмах. Реализации языка **Markdown** преобразуют текст в формате **Markdown** в валидный, правильно построенный XHTML и заменяет левые угловые скобки («<») и амперсанды («&») на соответствующие коды сущностей. Первой реализацией **Markdown** стала написанная Грубером реализация на Perl, однако спустя некоторое время появилось множество реализаций от сторонних разработчиков. Реализация на Perl распространяется по лицензии типа BSD. Реализации **Markdown** на различных языках программирования включены (или доступны в качестве плагина) во многие системы управления содержимым.
 
 *** 
 ## **MARKDOWN CHEATSHEET**
 
-
-### Заголовки
+## Заголовки
 
 ```
 #       Заголовок 1 уровня
@@ -27,7 +25,7 @@
 
 _____________
 
-### Шрифт
+## Шрифт
 
 - *Курсив:* `*SODA LABS*`
 
@@ -37,56 +35,75 @@ _____________
 
 - ~~Зачеркнутый:~~  `~~SODA LABS.~~`
 
+_______________
 
-### Списки
-
-тут по аналогии с заголовками  {Ш}
-
-- `  1. SODA LABS.`
-- `  2. Еще один элемент`
--  `    ..  Неупорядоченно вложенный список.` 
--  `  1. Фактически цифры не имеют значения, просто, что это число`
-- `     ..1. Заказал вложенный список`
-- `  4. И еще один пункт.`  
-
-- `  ...Надписи, которые должны быть согласованы с указанного выше пункта.`
-
-- `* Ненумерованный список можно использовать звездочки`
-- `- Или минусы`
-- `+ Или плюсы`
-
-
-### Ссылки
-
- {Ш} добавь другие примеры со ссылками
-
-`Привет это [Sheroz Karimov](https://github.com/SherozKarimov)`
-
-### Изображения
-
- {Ш} добавь изображения
-
-### Таблицы
-
-{Ш} чем отличаются `|:-----:|`, `|-------:|` , `|:--------|`?
+## Списки
 
 ```
-  |1 Столбик |2 Столбик|
-  |----------|:-------:|
-  |Графа 1   |Графа 1  |
-  |Графа 2   |Графа 2  |
-```
+1. SODA LABS.
+2. Еще один элемент
+    ..  Неупорядоченно вложенный список.
+1. Фактически цифры не имеют значения, просто, что это число
+     ..1. Заказал вложенный список
+  4. И еще один пункт.
 
-### Цитаты
+  ...Надписи, которые должны быть согласованы с указанного выше пункта.
+
+* Ненумерованный список можно использовать звездочки
+- Или минусы
++ Или плюсы
+```
+____________
+
+## Ссылки
+```
+[Здесь](https://github.com/adam-p/markdown-here) репозитория Markdown 
+```
+[Здесь](https://github.com/adam-p/markdown-here) репозитория Markdown 
+
+________________
+
+## Изображения
+
+```
+SODA LABS: 
+![alt  text] (https://avatars3.githubusercontent.com/u/4658189?s=140)
+```
+SODA LABS: 
+![alt  text] (https://avatars3.githubusercontent.com/u/4658189?s=140)
+____________________
+
+## Таблицы
+```
+|:-----:| Выравнивание по центру
+|-------:| Выравнивание по правому краю
+|:--------| Выравнивание по левому краю
+```
+```
+  |По левому краю |По центру|По правому краю|
+  |:----------|:-------:|------:|
+  |SODA LABS|SODA LABS  |SODA LABS|
+  
+```
+|По левому краю |По центру|По правому краю|
+|:----------|:-------:|------:|
+|SODA LABS|SODA LABS  |SODA LABS|
+_____________
+
+## Цитаты
 
 ```
 > Цитаты очень удобны.
 > Эта линия является частью той же цитатой.
 > SODA LABS.
 ```
+> Цитаты очень удобны.
+> Эта линия является частью той же цитатой.
+> SODA LABS.
 
+______________
 
-### Горизонтальные линии
+## Горизонтальные линии
 
 ```
 Github
@@ -98,85 +115,67 @@ LABS
 stars
 ***
 ```
-  
-
-* Инструкция на [Английском](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
+Github
+--------
+SODA
+________
+LABS
+========
+stars
 ***
  
 # Реализации **Markdown**
 
-ссылки {Ш}
-
 * **C#**
-* **C**
-* **Cold Fusion**
-* **Common Lisp**
-* **Go**
-* **Haskell**
-* **Java**
-* **JavaScript**
-* **Lua**
-* **newLISP**
-* **Perl**
-* **PHP**
-* **Python**
-* **Ruby**
-* **Scala**
+* **[C](http://www.pell.portland.or.us/~orc/Code/markdown/)**
+* **[Go](https://github.com/russross/blackfriday)**
+* **[Haskell](http://sophos.berkeley.edu/macfarlane/pandoc/)**
+* **[Java](http://sourceforge.net/projects/markdownj/)**
+* **[JavaScript](https://github.com/coreyti/showdown/)**
+* **[Perl](http://unbalanced-parentheses.nfshost.com/syntax.cgi?downloads/markdown.lsp.txt)**
+* **[PHP](http://www.michelf.com/projects/php-markdown/)**
+* **[Python](http://www.freewisdom.org/projects/python-markdown/)**
+* **[Ruby](http://maruku.rubyforge.org/)**
 
 # Расширения **Markdown**
 
-Где **GFM**, {Ш}?
-
+* **[GFM](https://help.github.com/articles/github-flavored-markdown)**
 
 ## Приложения которые реализуют Markdown, с расширениями
-* **MultiMarkdown (C)**
-* **Text: MultiMarkdown (Perl) модуль, реализующий расширение MultiMarkdown**
-* **PHP Markdown Extra**
-* **Python-Markdown2 (Поддерживает некоторые расширения PHP Markdown)**
-* **Python-Markdown (Имеет систему расширений для добавления нового синтаксиса)**
-* **Markout (Java)**
-* **Pegdown (Java)**
-* **Maruku (Ruby)**
-* **Pandoc (Haskell)**
+* **[MultiMarkdown (C)]( http://fletcherpenney.net/multimarkdown/)**
+* **[Text: MultiMarkdown (Perl)]( http://search.cpan.org/~bobtfish/Text-MultiMarkdown-1.000034/lib/Text/MultiMarkdown.pm) модуль, реализующий расширение MultiMarkdown**
+* **[PHP Markdown Extra]( http://michelf.ca/projects/php-markdown/extra/)**
+* **[Python-Markdown2]( https://code.google.com/p/python-markdown2/) (Поддерживает некоторые расширения PHP Markdown)**
+* **[Markout (Java)]( http://markout.exegetic.net/)**
+* **[Pegdown (Java)]( https://github.com/sirthias/pegdown)**
+* **[Maruku (Ruby)]( http://maruku.rubyforge.org/)**
 
 ## Руководства **Markdown:**
 
-* **Markdown: Dingus онлайн-конвертер[ССЫЛКА {Ш}]**
-* **Markdown cheat sheet**
+* **[Markdown: Dingus онлайн-конвертер](http://daringfireball.net/projects/markdown/dingus)**
+* **[Markdown cheat sheet](http://warpedvisions.org/projects/markdown-cheat-sheet.md)**
 
 
 ## Конвертеры
 
-тут нужны ссылки {Ш}
-
 * **Из HTML в Markdown:**
-* **html2text.py (написано на Python)**
-* **Markdownify (на PHP)**
-* **Make.text (букмарклет, преобразующий любую веб-страницу в Markdown)**
-* **XHTML-to-Markdown XSLT (XSLT-таблица стилей, работает только с XHTML)**
-* **Pandoc (написанная на Haskell библиотека по преобразованию различных форматов, может преобразовывать в/из  Markdown, HTML, reStructuredText, LaTeX, и др.)**
-* **odt2txt (скрипт на Python  для преобразования файлов из формата OpenDocument в Markdown)**
-* **word_markdown_macro (макрос Microsoft Word, преобразующий некоторую часть форматирования Word в Markdown)**
+ - **[html2text.py]( http://www.aaronsw.com/2002/html2text/) (написано на Python)**
+ - **[XHTML-to-Markdown XSLT]( http://www.lowerelement.com/Geekery/XML/XHTML-to-Markdown.html) (XSLT-таблица стилей, работает только с XHTML)**
+ - **[Pandoc]( http://johnmacfarlane.net/pandoc/) (написанная на Haskell библиотека по преобразованию различных форматов, может преобразовывать в/из  Markdown, HTML, reStructuredText, LaTeX, и др.)**
+- **[word_markdown_macro]( http://tips.naivist.net/2006/02/02/word_to_markdown_converter/) (макрос Microsoft Word, преобразующий некоторую часть форматирования Word в Markdown)**
 
 
 # Поддержка текстовыми редакторами
 
-тут нужны ссылки {Ш}
-
 ## **Универсальные редакторы** 
-* Emacs 
-* Vim (с помощью специального пользовательского режима, написанного Беном Вильямсом) 
-* Atom {Ш}?
-* TextMate
-* BBEdit
-* Sublime Text
-* **Плагины для редактора среды Eclipse от ThinkTank Mathematics**
-* **Плагины для текстового редактора gedit**
+* [Emacs]( https://www.gnu.org/software/emacs/)
+* [Vim]( http://www.vim.org/) (с помощью специального пользовательского режима, написанного Беном Вильямсом) 
+* [Atom]( https://atom.io/)
+* **Плагины для редактора среды [Eclipse]( http://eclipse.org/) от ThinkTank Mathematics**
+* **Плагины для текстового редактора [gedit]( https://wiki.gnome.org/Apps/Gedit)**
 
 ## **Редакторы для блогов** 
-* Ecto 
-* MarsEdit
-* **Текстовый редактор iA Writer в версии для Mac OS**
-* **Текстовый редактор ReText для GNU/Linux**
-* **WYSIWYM редактор Texts для Windows/Mac OS**
+* [Ecto]( http://illuminex.com/ecto/) 
+* **Текстовый редактор [iA Writer]( http://www.iawriter.com/mac/) в версии для Mac OS**
+* **Текстовый редактор [ReText]( http://sourceforge.net/p/retext/home/ReText/) для GNU/Linux**
+* **WYSIWYM редактор [Texts]( http://www.texts.io/) для Windows/Mac OS**
