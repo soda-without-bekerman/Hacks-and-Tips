@@ -137,6 +137,7 @@ ________
 * **[PHP](http://www.michelf.com/projects/php-markdown/)**
 * **[Python](http://www.freewisdom.org/projects/python-markdown/)**
 * **[Ruby](http://maruku.rubyforge.org/)**
+* **[Marked](https://github.com/chjj/marked) JavaScript**
 
 # Расширения **Markdown**
 
