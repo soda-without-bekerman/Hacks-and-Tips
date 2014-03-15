@@ -3,10 +3,10 @@
 | [Sheroz Karimov](https://github.com/SherozKarimov)         |  4.5(3.5)   |   да/нет      |    3/3       |     3/2  |
 | [Pavel Shalaginov](https://github.com/PavelShalaginov)     |  4.0(1.0)   |   да/нет     |    3/3       |     1/0  |
 | [Leonid Prokopovich](https://github.com/leonidprokopovich) |  2.4(-3.6)   |   нет/нет     |   0/0  |     0/0  |
-| [Maxim Loguncov](https://github.com/MaximLoguncov)         |  2.2(0.2)   |   да/нет      |    3/3       |     1/1 |
+| [Maxim Loguncov](https://github.com/MaximLoguncov)         |  3.7       |   да/да      |    3/3       |     3/3 |
 | [Dmitry Shiukaev](https://github.com/DmitryShiukaev)       |  0.5(-3.5)   |   нет/нет     |   6/2  |     1/0  |
 | [Nikita Golub](https://github.com/NikitaGolub)             |  0.9(-5.1)   |   нет/нет     |   3/1  |     0/0  |
-| [Misha Rubnicov](https://github.com/MishaRubnicov)         |  0.0(-6.0)   |   нет/нет     |   0/0  |     0/0  |
+| [Misha Rubnicov](https://github.com/MishaRubnicov)         |  0.0(-6.0)   |   нет/нет     |   1/1  |     0/0  |
 | [Tanya Petrova](https://github.com/TanyaPetrova)           |  -0.4(-6.4)   |   нет/нет     |   0/0  |     0/0  |
 | [Egor Dergaew](https://github.com/EgorDergaew)             |  -2.1(-8.1)   |   нет/нет     |   0/0  |     0/0  |
 | [Artem Kvadzba](https://github.com/ArtemKvadzba)           |  -3.2(-8.8)  |   нет/нет     |   5/1  |     0/0  |
