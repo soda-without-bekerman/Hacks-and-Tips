@@ -1,6 +1,6 @@
 |                                                            | карма | экзамены/практика |  попытки (экз.) | практика |
 |------------------------------------------------------------|:------:|:---------:|:-------------:|:--------:|
-| [Sheroz Karimov](https://github.com/SherozKarimov)         |  4.75(3.75)   |   да/нет      |    3/3       |     4/2  |
+| [Sheroz Karimov](https://github.com/SherozKarimov)         |  5.75   |   да/да      |    3/3       |     4/3  |
 | [Pavel Shalaginov](https://github.com/PavelShalaginov)     |  4.0(1.0)   |   да/нет     |    3/3       |     1/0  |
 | [Maxim Loguncov](https://github.com/MaximLoguncov)         |  3.7        |   да/да      |    3/3       |     3/3 |
 | [Leonid Prokopovich](https://github.com/leonidprokopovich) |  2.4(-3.6)   |   нет/нет     |   0/0  |     0/0  |
