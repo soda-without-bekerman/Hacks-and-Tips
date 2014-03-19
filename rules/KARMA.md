@@ -11,7 +11,7 @@
 | [Tanya Petrova](https://github.com/TanyaPetrova)           |  -0.4(-6.4) |   нет/нет     |   0/0  |     0/0  |
 | [Egor Dergaew](https://github.com/EgorDergaew)             |  -2.1(-8.1)  |   нет/нет     |   0/0  |     0/0  |
 | [Artem Kvadzba](https://github.com/ArtemKvadzba)           |  -3.2(-7.2)  |   нет/нет     |   5/2  |     0/0  |
-| [George Ovchinnikov](https://github.com/GeorgeOvchinnikov) |  -3.5(-6.5)  |   да/нет     |   4/3  |     0/0  |
+| [George Ovchinnikov](https://github.com/GeorgeOvchinnikov) |  -2.5(-4.5)  |   да/нет     |   4/3  |     1/1  |
 
 
 В скобках указано максимальное значение кармы, если экзамены и практика не будут сданы.
