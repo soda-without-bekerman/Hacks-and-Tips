@@ -9,9 +9,9 @@
 | [Victor Petukhov](https://github.com/VictorPetukhov)       |  0.3(-5.7)  |  нет/нет      |  0/0  |    0/0    |
 | [Misha Rubnicov](https://github.com/MishaRubnicov)         |  0.0(-6.0)   |   нет/нет     |   4/3  |     0/0  |
 | [Tanya Petrova](https://github.com/TanyaPetrova)           |  -0.4(-6.4) |   нет/нет     |   0/0  |     0/0  |
+| [Artem Kvadzba](https://github.com/ArtemKvadzba)           |  -1.6(-2.6)  |   нет/нет     |   6/3  |     2/2  |
 | [Egor Dergaew](https://github.com/EgorDergaew)             |  -2.1(-8.1)  |   нет/нет     |   0/0  |     0/0  |
 | [George Ovchinnikov](https://github.com/GeorgeOvchinnikov) |  -2.6(-4.6)  |   да/нет     |   4/3  |     1/1  |
-| [Artem Kvadzba](https://github.com/ArtemKvadzba)           |  -2.6(-4.6)  |   нет/нет     |   6/3  |     1/0  |
 
 
 В скобках указано максимальное значение кармы, если экзамены и практика не будут сданы.
