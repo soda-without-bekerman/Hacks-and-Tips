@@ -1,10 +1,11 @@
 |                                                            | карма | экзамены/практика |  попытки (экз.) | практика |
 |------------------------------------------------------------|:------------:|:------------:|:-------:|:----:|
 | [Sheroz Karimov](https://github.com/SherozKarimov)         |  7.4         |   да/да      |    3/3  | 4/3  |
-| [Maxim Loguncov](https://github.com/MaximLoguncov)         |  3.9         |   да/да      |    3/3  | 3/3  |
+| [Maxim Loguncov](https://github.com/MaximLoguncov)         |  4.05         |   да/да      |    3/3  | 3/3  |
 | [Dmitry Shiukaev](https://github.com/DmitryShiukaev)       |  3.65        |   да/да      |    7/3  | 3/3  |
-| [Artem Kvadzba](https://github.com/ArtemKvadzba)           |  -1.6(-2.6)  |   да/нет     |    6/3  | 2/2  |
-| [George Ovchinnikov](https://github.com/GeorgeOvchinnikov) |  -2.6(-4.6)  |   да/нет     |    4/3  | 1/1  |
+| [Artem Kvadzba](https://github.com/ArtemKvadzba)           |  -1.1        |   да/да      |    6/3  | 3/3  |
+| [George Ovchinnikov](https://github.com/GeorgeOvchinnikov) |  -4.6(-6.6)  |   да/нет     |    4/3  | 3/1  |
+|                                                            |              |              |         |      |
 | [Pavel Shalaginov](https://github.com/PavelShalaginov)     |  4.0(1.0)    |   да/нет     |    3/3  | 1/0  |
 | [Misha Rubnicov](https://github.com/MishaRubnicov)         |  0.0(-6.0)   |   да/нет     |    4/3  | 0/0  |
 | [Leonid Prokopovich](https://github.com/leonidprokopovich) |  2.2(-3.8)   |   нет/нет    |    0/0  | 0/0  |
