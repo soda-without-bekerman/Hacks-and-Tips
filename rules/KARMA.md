@@ -2,7 +2,7 @@
 |------------------------------------------------------------|:------------:|:------------:|:-------:|:----:|
 | [Sheroz Karimov](https://github.com/SherozKarimov)         |  7.4         |   да/да      |    3/3  | 4/3  |
 | [Maxim Loguncov](https://github.com/MaximLoguncov)         |  3.9         |   да/да      |    3/3  | 3/3  |
-| [Dmitry Shiukaev](https://github.com/DmitryShiukaev)       |  1.65(-0.35) |   да/нет     |    7/3  | 2/1  |
+| [Dmitry Shiukaev](https://github.com/DmitryShiukaev)       |  2.65(1.65)  |   да/нет     |    7/3  | 3/2  |
 | [Artem Kvadzba](https://github.com/ArtemKvadzba)           |  -1.6(-2.6)  |   да/нет     |    6/3  | 2/2  |
 | [George Ovchinnikov](https://github.com/GeorgeOvchinnikov) |  -2.6(-4.6)  |   да/нет     |    4/3  | 1/1  |
 | [Pavel Shalaginov](https://github.com/PavelShalaginov)     |  4.0(1.0)    |   да/нет     |    3/3  | 1/0  |
