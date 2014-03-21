@@ -1,13 +1,13 @@
-## Как создавать папку (без консоли) в Репизитроиях [GitHub.com](www.github.com)
+## Как создавать папку (без консоли) в репозитории [GitHub.com](www.github.com)
 
-#### 1. Для добавления какой-то папки, нужно найти `Create a new file here`:
+#### 1. Нажать `Create a new file here`:
 
 ![alt text](https://github-images.s3.amazonaws.com/help/repository/create_new_file.jpeg)
 
-#### 2. Нажать на иконку `Create a new file here`, получается: 
+
+#### 2. В строке `Name your file...`  нужно написать имя папки и добавить символ `/` 
 
 ![alt text](https://github-images.s3.amazonaws.com/help/repository/changing_file_path.png)
 
-#### 3. В строке `Name your file...`  нужно написать имя папки и добавить символ `/` 
 
-#### 4. Добавить в созданную папку любой файл и нажать на `Commit new file`
+#### 3. Написать любое имя файла (например, `Readme.md`) и нажать на `Commit new file`
