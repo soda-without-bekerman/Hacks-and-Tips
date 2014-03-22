@@ -1,7 +1,7 @@
 |                                                            | карма | экзамены/практика |  попытки (экз.) | практика |
 |------------------------------------------------------------|:------------:|:------------:|:-------:|:----:|
 | [Sheroz Karimov](https://github.com/SherozKarimov)         |  7.4         |   да/да      |    3/3  | 4/3  |
-| [Maxim Loguncov](https://github.com/MaximLoguncov)         |  4.05         |   да/да      |    3/3  | 3/3  |
+| [Maxim Loguncov](https://github.com/MaximLoguncov)         |  3.55        |   да/да      |    3/3  | 3/3  |
 | [Dmitry Shiukaev](https://github.com/DmitryShiukaev)       |  3.65        |   да/да      |    7/3  | 3/3  |
 | [Artem Kvadzba](https://github.com/ArtemKvadzba)           |  -1.1        |   да/да      |    6/3  | 3/3  |
 | [George Ovchinnikov](https://github.com/GeorgeOvchinnikov) |  -4.6(-6.6)  |   да/нет     |    4/3  | 3/1  |
