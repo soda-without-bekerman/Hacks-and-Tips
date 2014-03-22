@@ -4,7 +4,7 @@
 | [Maxim Loguncov](https://github.com/MaximLoguncov)         |  3.55        |   да/да      |    3/3  | 3/3  |
 | [Dmitry Shiukaev](https://github.com/DmitryShiukaev)       |  3.45        |   да/да      |    7/3  | 3/3  |
 | [Artem Kvadzba](https://github.com/ArtemKvadzba)           |  -1.1        |   да/да      |    6/3  | 3/3  |
-| [George Ovchinnikov](https://github.com/GeorgeOvchinnikov) |  -4.6(-6.6)  |   да/нет     |    4/3  | 3/1  |
+| [George Ovchinnikov](https://github.com/GeorgeOvchinnikov) |  -3.6(-4.6)  |   да/нет     |    4/3  | 3/1  |
 |                                                            |              |              |         |      |
 | [Pavel Shalaginov](https://github.com/PavelShalaginov)     |  4.0(1.0)    |   да/нет     |    3/3  | 1/0  |
 | [Misha Rubnicov](https://github.com/MishaRubnicov)         |  0.0(-6.0)   |   да/нет     |    4/3  | 0/0  |
