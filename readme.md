@@ -6,7 +6,7 @@
 ```
 ===============
 
-### === ПРАВИЛА === [>>](RULES)
+### == ПРАВИЛА == [>>](RULES)
 
  - [Написания кода](RULES/CODING.md)
  - [Кодекс поведения](RULES/CULTURE.md)
@@ -14,32 +14,37 @@
 
 ===============
 
-### === ЭКЗАМЕНЫ === [>>](exams)
+### == ЭКЗАМЕНЫ == [>>](EXAMS)
 
-* [Вопросы](exams/questions.md)
-* [Ответы](exams/answers.md)
-* [Задолженности](exams/debt.md)
-* [Предстоящие](exams/coming.md)
-* [Достижения](Hacks-and-Tips/karma.md)
+ - [Вопросы](exams/questions.md)
+ - [Ответы](exams/answers.md)
+ - [Задолженности](exams/debt.md)
+ - [Предстоящие](exams/coming.md)
+ - [Достижения](Hacks-and-Tips/karma.md)
 
 ===============
 
-### === ШПАРГАЛКИ === [>>](cheatsheets)
+### == ШПАРГАЛКИ == [>>](CHEATSHEETS)
 
-* [Git](cheatsheets/Git.md)
-* [Bash](cheatsheets/BASH commands.md)
-* [Markdown](cheatsheets/Markdown.md)
-* [Git-alpha](cheatsheets/Git-alpha.md)
-* [Emacs-beta](cheatsheets/Emacs-beta.md)
-* [Ubuntu-beta](cheatsheets/Ubuntu-beta.md)
-* [Query-language-beta](cheatsheets/Query-language-beta.md)
+ - [Git](cheatsheets/Git.md)
+ - [Bash](cheatsheets/BASH commands.md)
+ - [Markdown](cheatsheets/Markdown.md)
+ - [Git-alpha](cheatsheets/Git-alpha.md)
+ - [Emacs-beta](cheatsheets/Emacs-beta.md)
+ - [Ubuntu-beta](cheatsheets/Ubuntu-beta.md)
+ - [Query-language-beta](cheatsheets/Query-language-beta.md)
 
 `-alpha` и `-beta` - находятся в разработке.
 
 ===============
 
+### == WISHLIST == [>>](WISHLIST)
+
+ - `люди`
+ - `события`
+ - `оборудование`
+ - `...`
+
 # Есть свежие идеи, проблемы и решения? 
 ### Ок. Не стесняемся! Смело дополняем / улучшаем / размещаем в [`issues`](https://github.com/soda-io/Hacks-and-Tips/issues/new)
-
-===============
 
