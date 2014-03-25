@@ -1,4 +1,4 @@
-Hacks & Tips
+![](https://avatars0.githubusercontent.com/u/6559911?s=20) Hacks & Tips
 ===
 
 ```
@@ -6,7 +6,7 @@ Hacks & Tips
 ```
 ===============
 
-### === [ПРАВИЛА](RULES) ![](https://avatars0.githubusercontent.com/u/6559911?s=20) ===
+### === [ПРАВИЛА](RULES) ===
 
  - [Правила начисления кармы](RULES/KARMA.md)
  - [Правила написания кода](RULES/CODING.md)
