@@ -7,7 +7,7 @@
 | [![](https://avatars2.githubusercontent.com/u/5991448?s=40)](https://github.com/DmitryShiukaev)  |  3.45  |  да/да  |  7/3  |  3/3  |
 | [![](https://avatars3.githubusercontent.com/u/4639509?s=40)](https://github.com/ArtemKvadzba)  |  0.1   |  да/да   |  6/3  |  3/3  |
 |                                                            |              |              |         |      |
-| [![](https://avatars0.githubusercontent.com/u/3833771?s=40)](https://github.com/PavelShalaginov)  |  4.0(1.0)  |  да/нет  |  3/3  |  1/0  |  
+| [![](https://avatars0.githubusercontent.com/u/3833771?s=40)](https://github.com/PavelShalaginov)  |  4.3(1.3)  |  да/нет  |  3/3  |  1/0  |  
 | [![](https://avatars1.githubusercontent.com/u/6498865?s=40)](https://github.com/MishaRubnicov)  |  0.0(-6.0)   |   да/нет     |    4/3  | 0/0  |
 | [![](https://avatars1.githubusercontent.com/u/6061182?s=40)](https://github.com/GeorgeOvchinnikov) |  -3.6(-4.6)  |   да/нет     |    4/3  | 3/1  |
 |                                                            |              |              |         |      |
