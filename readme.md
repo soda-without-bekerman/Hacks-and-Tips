@@ -3,8 +3,16 @@
 
 ## Roadmap
 
-### [Правила](rules) для участников {S}
+### [Правила](rules) для участников ![](https://avatars0.githubusercontent.com/u/6559911?s=20)
+
+ - [Карма](rules/KARMA.md)
+ - [Правила начисления кармы](rules/KARMA-RULES.md)
+ - [Правила написания кода](rules/CODING-RULES.md)
+ - [Правила поведения в ![](https://avatars0.githubusercontent.com/u/6559911?s=20)](rules/RULES.md)
+ 
 ### [Справка + подсказки](cheatsheets) для всех. 
+
+
 
 С пометками `-alpha` и `-beta` находятся в разработке. Если вам есть что дополнить/подправить, не стесняйтесь.
 
