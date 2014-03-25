@@ -13,7 +13,7 @@
 ================
 
 
-### сдают 1 раз в неделю (вторник)
+### 1 раз в неделю (вторник)
 
   [![](https://avatars3.githubusercontent.com/u/6450286?s=50)](https://github.com/NikitaGolub)   [![](https://avatars1.githubusercontent.com/u/6061182?s=50)](https://github.com/GeorgeOvchinnikov) 
 
@@ -24,7 +24,7 @@
 
 
 
-### сдают по индивидуальной договоренности
+### по индивидуальной договоренности
 
   [![](https://avatars0.githubusercontent.com/u/3833771?s=50)](https://github.com/PavelShalaginov)   [![](https://avatars1.githubusercontent.com/u/6498865?s=50)](https://github.com/MishaRubnicov)    [![](https://avatars0.githubusercontent.com/u/6568321?s=50)](https://github.com/TanyaPetrova)  
 
