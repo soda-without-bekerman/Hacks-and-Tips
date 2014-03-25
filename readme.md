@@ -1,38 +1,31 @@
-# Hacks & Tips
+Hacks & Tips
+===
 
-### **Репозиторий для хаков, подсказок, вопросов и ответов.**
-
-#### Вопросы по улучшению, идеи, проблемы и решения размещаем в [`issues`](https://github.com/soda-io/Hacks-and-Tips/issues/new)
-
+```
+**Репозиторий для хаков, подсказок, вопросов и ответов**
+```
 ===============
 
-### [Правила](rules) для участников ![](https://avatars0.githubusercontent.com/u/6559911?s=20)
+### === [ПРАВИЛА](RULES) ![](https://avatars0.githubusercontent.com/u/6559911?s=20) ===
 
- - [Правила начисления кармы](KARMA/readme.md)
- - [Правила написания кода](rules/readme.md)
- - [Правила поведения](rules/RULES.md)
+ - [Правила начисления кармы](RULES/KARMA.md)
+ - [Правила написания кода](RULES/CODING.md)
+ - [Правила поведения](RULES/CULTURE.md)
  
 ===============
 
-### [Справка + подсказки](cheatsheets) для всех. 
-
-* С пометками `-alpha` и `-beta` находятся в разработке. 
-* Если вам есть что дополнить/подправить, не стесняйтесь добавлять материалы по своему усмотрению. 
-* Вопросы в статусе.
-
-===============
-
-=== ЭКЗАМЕНЫ ===
+### === [ЭКЗАМЕНЫ](exams) ===
 
 * [Вопросы](exams/questions.md)
-* [Ответы](exams)
-* [Задолженности](exams/readme.md)
-* [Предстоящие](exams/readme.md)
-* [Достижения](KARMA/readme.md)
+* [Ответы](exams/answers.md)
+* [Задолженности](exams/debt.md)
+* [Предстоящие](exams/coming.md)
+* [Достижения](Hacks-and-Tips/karma.md)
 
 ===============
 
-=== CHEATSHEETS ===
+### === [ШПАРГАЛКИ](cheatsheets) ===
+
 * [**Markdown**](cheatsheets/Markdown.md)
 * [**Git**](cheatsheets/Git.md)
 * [**Bash**](cheatsheets/BASH commands.md)
@@ -42,4 +35,9 @@
 * [**Bookmarklets-alpha**](cheatsheets/Bookmarklets-alpha.md)
 * [**Query-language-beta**](cheatsheets/Query-language-beta.md)
 
+`-alpha` и `-beta` - находятся в разработке.
+
+===============
+## Есть идеи, проблемы и решения? Ок. Не стесняемся! дополняем / улучшаем / размещаем в [`issues`](https://github.com/soda-io/Hacks-and-Tips/issues/new)
+===============
 
