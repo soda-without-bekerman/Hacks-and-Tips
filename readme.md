@@ -9,9 +9,9 @@
 
 ### [Правила](rules) для участников ![](https://avatars0.githubusercontent.com/u/6559911?s=20)
 
- - [Карма](rules/KARMA.md)
- - [Правила начисления кармы](rules/KARMA-RULES.md)
- - [Правила написания кода](rules/CODING-RULES.md)
+ - [Карма](KARMA/readme.md)
+ - [Правила начисления кармы](KARMA/readme.md)
+ - [Правила написания кода](rules/readme.md)
  - [Правила поведения в ![](https://avatars0.githubusercontent.com/u/6559911?s=20)](rules/RULES.md)
  
 
