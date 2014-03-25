@@ -1,4 +1,4 @@
-![](https://avatars0.githubusercontent.com/u/6559911?s=20) Hacks & Tips
+![](https://avatars0.githubusercontent.com/u/6559911?s=28) Hacks & Tips
 ===
 
 ```
@@ -8,10 +8,10 @@
 
 ### === ПРАВИЛА === [>>](RULES)
 
- - [Начисления кармы](RULES/KARMA.md)
  - [Написания кода](RULES/CODING.md)
  - [Кодекс поведения](RULES/CULTURE.md)
- 
+ - [Начисления кармы](RULES/KARMA.md)
+
 ===============
 
 ### === ЭКЗАМЕНЫ === [>>](exams)
@@ -26,14 +26,13 @@
 
 ### === ШПАРГАЛКИ === [>>](cheatsheets)
 
-* [**Markdown**](cheatsheets/Markdown.md)
-* [**Git**](cheatsheets/Git.md)
-* [**Bash**](cheatsheets/BASH commands.md)
-* [**Git-alpha**](cheatsheets/Git-alpha.md)
-* [**Emacs-beta**](cheatsheets/Emacs-beta.md)
-* [**Ubuntu-beta**](cheatsheets/Ubuntu-beta.md)
-* [**Bookmarklets-alpha**](cheatsheets/Bookmarklets-alpha.md)
-* [**Query-language-beta**](cheatsheets/Query-language-beta.md)
+* [Git](cheatsheets/Git.md)
+* [Bash](cheatsheets/BASH commands.md)
+* [Markdown](cheatsheets/Markdown.md)
+* [Git-alpha](cheatsheets/Git-alpha.md)
+* [Emacs-beta](cheatsheets/Emacs-beta.md)
+* [Ubuntu-beta](cheatsheets/Ubuntu-beta.md)
+* [Query-language-beta](cheatsheets/Query-language-beta.md)
 
 `-alpha` и `-beta` - находятся в разработке.
 
