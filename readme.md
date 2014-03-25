@@ -6,15 +6,15 @@
 ```
 ===============
 
-### === [ПРАВИЛА](RULES) ===
+### === ПРАВИЛА === [>>](RULES)
 
- - [Правила начисления кармы](RULES/KARMA.md)
- - [Правила написания кода](RULES/CODING.md)
- - [Правила поведения](RULES/CULTURE.md)
+ - [Начисления кармы](RULES/KARMA.md)
+ - [Написания кода](RULES/CODING.md)
+ - [Кодекс поведения](RULES/CULTURE.md)
  
 ===============
 
-### === [ЭКЗАМЕНЫ](exams) ===
+### === ЭКЗАМЕНЫ === [>>](exams)
 
 * [Вопросы](exams/questions.md)
 * [Ответы](exams/answers.md)
@@ -24,7 +24,7 @@
 
 ===============
 
-### === [ШПАРГАЛКИ](cheatsheets) ===
+### === ШПАРГАЛКИ === [>>](cheatsheets)
 
 * [**Markdown**](cheatsheets/Markdown.md)
 * [**Git**](cheatsheets/Git.md)
