@@ -33,13 +33,13 @@
 ===============
 
 === CHEATSHEETS ===
-* [**Markdown**](Markdown.md)
-* [**Git**](Git.md)
-* [**Bash**](BASH commands.md)
-* [**Git-alpha**](Git-alpha.md)
-* [**Emacs-beta**](Emacs-beta.md)
-* [**Ubuntu-beta**](Ubuntu-beta.md)
-* [**Bookmarklets-alpha**](Bookmarklets-alpha.md)
-* [**Query-language-beta**](Query-language-beta.md)
+* [**Markdown**](cheatsheets/Markdown.md)
+* [**Git**](cheatsheets/Git.md)
+* [**Bash**](cheatsheets/BASH commands.md)
+* [**Git-alpha**](cheatsheets/Git-alpha.md)
+* [**Emacs-beta**](cheatsheets/Emacs-beta.md)
+* [**Ubuntu-beta**](cheatsheets/Ubuntu-beta.md)
+* [**Bookmarklets-alpha**](cheatsheets/Bookmarklets-alpha.md)
+* [**Query-language-beta**](cheatsheets/Query-language-beta.md)
 
 
