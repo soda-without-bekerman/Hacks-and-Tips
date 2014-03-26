@@ -19,7 +19,7 @@
  - [Ответы](exams/answers.md)
  - [Задолженности](exams/debt.md)
  - [Предстоящие](exams/coming.md)
- - [Достижения](Hacks-and-Tips/karma.md)
+ - [Достижения](karma.md)
 
 ===============
 
