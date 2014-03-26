@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="первый.svg">
+   sodipodi:docname="second.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -36,12 +36,12 @@
      inkscape:cx="375"
      inkscape:cy="520"
      inkscape:document-units="px"
-     inkscape:current-layer="g3187"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -112,7 +112,7 @@
          xml:space="preserve"
          id="flowRoot3792"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#050000;fill-opacity:1;stroke:none;font-family:Sans"
-         transform="matrix(0.21231516,0,0,0.21231516,317.39482,264.10873)"><flowRegion
+         transform="matrix(0.21231516,0,0,0.21231516,316.98873,262.89046)"><flowRegion
            id="flowRegion3794"><rect
              id="rect3796"
              width="31.428574"
