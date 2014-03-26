@@ -15,9 +15,9 @@
 
 ### == ЭКЗАМЕНЫ == [>>](EXAMS)
 
- - [Вопросы](exams/questions.md)
- - [Ответы](exams/answers.md)
- - [Задолженности](exams/debt.md)
+ - [Вопросы](EXAMS/QUESTIONS)
+ - [Ответы](EXAMS/ANSWERS)
+ - [Задолженности](EXAMS/readme.md)
  - [Предстоящие](exams/coming.md)
  - [Достижения](karma.md)
 
@@ -25,15 +25,14 @@
 
 ### == ШПАРГАЛКИ == [>>](CHEATSHEETS)
 
- - [Git](cheatsheets/Git.md)
- - [Bash](cheatsheets/BASH commands.md)
- - [Markdown](cheatsheets/Markdown.md)
- - [Git-alpha](cheatsheets/Git-alpha.md)
- - [Emacs-beta](cheatsheets/Emacs-beta.md)
- - [Ubuntu-beta](cheatsheets/Ubuntu-beta.md)
- - [Query-language-beta](cheatsheets/Query-language-beta.md)
+ - [Git](CHEATSHEETS/beta/Git.Hub.md)
+ - [Bash:commands](CHEATSHEETS/beta/bash:commands.md)
+ - [Markdown](CHEATSHEETS/beta/Markdown.md)
+ - [GitHub](CHEATSHEETS/alpha/GitHub.md)
+ - [Emacs](CHEATSHEETS/alpha/Emacs.md)
+ - [Ubuntu](CHEATSHEETS/alpha/Ubuntu.md)
+ - [Query-language](CHEATSHEETS/beta/Query-language.md)
 
-`-alpha` и `-beta` - находятся в разработке.
 
 ===============
 
