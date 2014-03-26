@@ -1,6 +1,18 @@
 # Подсказки 
 ----------------
 
+  `α` [Emacs](alpha/Emacs.md)
+	
+  `α` [GitHub](alpha/GitHub.md)
+	
+  `α` [Ubuntu](alpha/Ubuntu.md)
+
+  `β` [Git](beta/Git.Hub.md)
+	
+  `β` [Поисковые запросы](beta/Query-language.md)
+	
+  `β` [Команды bash](beta/bash:commands.md)
+
 ================
 
 # Создание подсказок
