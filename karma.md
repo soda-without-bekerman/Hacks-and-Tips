@@ -9,7 +9,7 @@
 |                                                            |              |              |         |      |
 | [![](https://avatars0.githubusercontent.com/u/3833771?s=40)](https://github.com/PavelShalaginov)  |  4.3(1.3)  |  да/нет  |  3/3  |  1/0  |  
 | [![](https://avatars1.githubusercontent.com/u/6498865?s=40)](https://github.com/MishaRubnicov)  |  1.0(-1.0)   |   да/нет     |    4/3  | 1/0  |
-| [![](https://avatars1.githubusercontent.com/u/6061182?s=40)](https://github.com/GeorgeOvchinnikov) |  -3.2(-4.2)  |   да/нет     |    4/3  | 3/1  |
+| [![](https://avatars1.githubusercontent.com/u/6061182?s=40)](https://github.com/GeorgeOvchinnikov) |  -3.2(-4.2)  |   да/нет     |    4/3  | 3/2  |
 |                                                            |              |              |         |      |
 | [![](https://avatars2.githubusercontent.com/u/6639503?s=40)](https://github.com/leonidprokopovich) |  2.2(-3.8)   |   нет/нет    |    0/0  | 0/0  |
 | [![](https://avatars2.githubusercontent.com/u/6450286?s=40)](https://github.com/NikitaGolub)             |  0.9(-5.1)   |   нет/нет    |    3/1  | 0/0  |
