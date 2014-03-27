@@ -2,12 +2,12 @@
 
 #### 1. Нажать `Create a new file here`:
 
-![](img/create_new_file.jpeg)
+![](https://github.com/soda-io/Hacks-and-Tips/blob/master/CHEATSHEETS/img/create_new_file.jpeg?raw=true)
 
 
 #### 2. В строке `Name your file...`  нужно написать имя папки и добавить символ `/` 
 
-![](img/changing_file_path.png)
+![](https://github.com/soda-io/Hacks-and-Tips/blob/master/CHEATSHEETS/img/changing_file_path.png?raw=true)
 
 
 #### 3. Написать любое имя файла (например, `Readme.md`) и нажать на `Commit new file`
