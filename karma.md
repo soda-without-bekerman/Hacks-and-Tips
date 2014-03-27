@@ -1,4 +1,4 @@
-![](https://avatars0.githubusercontent.com/u/6559911?s=28) КАРМА
+![](https://avatars0.githubusercontent.com/u/6559911?s=34) КАРМА
 ===
 
 |                                                            | карма | экзамены/практика |  попытки (экз.) | практика |
