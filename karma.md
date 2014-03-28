@@ -16,7 +16,7 @@
 | [![](https://avatars2.githubusercontent.com/u/6450286?s=40)](https://github.com/NikitaGolub)             |  -1.3(-6.3)   |   нет/нет    |    1/0  | 0/0  |
 | [![](https://avatars0.githubusercontent.com/u/6568321?s=40)](https://github.com/TanyaPetrova)           | -0.4(-6.4)   |   нет/нет    |    0/0  | 0/0  |
 | [![](https://avatars0.githubusercontent.com/u/6037393?s=40)](https://github.com/VictorPetukhov)       |  0.45(-5.55) |   нет/нет    |    0/0  | 0/0  |
-| [![](https://avatars0.githubusercontent.com/u/6639543?s=40)](https://github.com/EgorDergaew)             | -2.05(-8.05) |   нет/нет    |    0/0  | 0/0  |
+| [![](https://avatars0.githubusercontent.com/u/6639543?s=40)](https://github.com/EgorDergaew)             | -2.25(-8.25) |   нет/нет    |    0/0  | 0/0  |
 
 
 
