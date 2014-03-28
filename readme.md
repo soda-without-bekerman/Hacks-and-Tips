@@ -46,4 +46,4 @@
 # Есть свежие Идеи, стремные Проблемы и смелые Решения? 
 ### Ок. Не стесняемся! дополняем / улучшаем / размещаем в [`issues`](https://github.com/soda-io/Hacks-and-Tips/issues/new)
 
-![](SODA.gif)
+![](./media/SODA.gif)
