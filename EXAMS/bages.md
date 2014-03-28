@@ -1,23 +1,9 @@
-# Сдал все экзамены
-![photo](../media/bages/exams.svg)
+НАГРАДЫ
+===========
 
-# Сдал всю практику
-![photo](../media/bages/praktika.svg)
 
-# Первым сдал все экзамены
-![photo](../media/bages/first.svg)
+|                  тест               |                 практика               |      ХВОСТЫ      |          
+|:-----------------------------------:|:--------------------------------------:|:-----------------|
+| ![photo](../media/bages/exams.svg)  | ![photo](../media/bages/praktika.svg)  | ![photo]()       |  
 
-# Вторым сдал все экзамены
-![photo](../media/bages/second.svg)
 
-# Третьим сдал все экзамены
-![photo](../media/bages/third.svg)
-
-# Первым сдал всю практику
-![photo](../media/bages/first2.svg)
-
-# Вторым сдал всю практику
-![photo](../media/bages/second2.svg)
-
-# Третьим сдал всю практику
-![photo](../media/bages/third2.svg)
