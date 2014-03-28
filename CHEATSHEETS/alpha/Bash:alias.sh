@@ -1,10 +1,3 @@
-alias "g"="git"
-alias "gcm"="git commit"
-alias "gcln"="git clone"
-alias "s"="strack"
-alias "sa"="strack add"
-alias "d"="strack done"
-alias "l"="strack log"
 alias "ды"="ls"
 alias "зцв"="pwd"
 alias "св"="cd"
@@ -31,6 +24,5 @@ alias "ыыр"="ssh"
 alias "икуц"="brew"
 alias "ьфсзщкеы"="macports"
 alias "!"="!!"
-alias "."=". ~/.bash_profile"
-alias "coffee"="coffee index.coffee"
+
 
