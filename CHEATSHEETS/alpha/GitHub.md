@@ -7,7 +7,7 @@
 
 #### 2. В строке `Name your file...`  нужно написать имя папки и добавить символ `/` 
 
-![](https://github.com/soda-io/Hacks-and-Tips/blob/master/CHEATSHEETS/img/changing_file_path.png?raw=true)
+![](https://github.com/soda-io/Hacks-and-Tips/blob/master/media/images/changing_file_path.png?raw=true)
 
 
 #### 3. Написать любое имя файла (например, `Readme.md`) и нажать на `Commit new file`
