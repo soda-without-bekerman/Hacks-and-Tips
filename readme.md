@@ -17,8 +17,8 @@
 
  - [Вопросы](EXAMS/QUESTIONS)
  - [Ответы](EXAMS/ANSWERS)
- - [Задолженности](EXAMS/readme.md)
- - [Предстоящие](exams/coming.md)
+ - [Задолженности](EXAMS/debt.md)
+ - [Предстоящие](EXAMS/coming.md)
  - [Достижения](karma.md)
 
 ===============
