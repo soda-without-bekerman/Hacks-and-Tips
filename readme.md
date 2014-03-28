@@ -17,7 +17,7 @@
 
  - [Вопросы](EXAMS/QUESTIONS)
  - [Ответы](EXAMS/ANSWERS)
- - [Задолженности](EXAMS/debt.md)
+ - [Хвосты](EXAMS/arrears.md)
  - [Предстоящие](EXAMS/coming.md)
  - [Достижения](karma.md)
 
