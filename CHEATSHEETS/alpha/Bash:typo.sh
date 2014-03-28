@@ -23,6 +23,7 @@ alias "фдшфы"="alias"
 alias "ыыр"="ssh"
 alias "икуц"="brew"
 alias "ьфсзщкеы"="macports"
-alias "!"="!!"
+alias "сфе"="cat"
+alias "шасщташп"="ifconfig"
 
 
