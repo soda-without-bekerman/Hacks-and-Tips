@@ -52,4 +52,6 @@ alias "ешьу"="time"
 alias "згдд"="pull"
 alias "згыр"="push"
 alias "сщььше"="commit"
+alias "уьфсы"="emacs"
+alias "сдуфк"="clear"
 
