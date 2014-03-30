@@ -46,4 +46,5 @@ alias "зштп"="ping"
 alias "рщыетфьу"="hostname"
 alias "сгкд"="curl"
 alias "пше"="git"
+alias "црщфьш"="whoami"
 
