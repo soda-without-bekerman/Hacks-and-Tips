@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="146.71587"
-   height="146.71587"
+   width="160.85815"
+   height="160.85815"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="196.93172"
-     inkscape:cy="219.07596"
+     inkscape:zoom="1.979899"
+     inkscape:cx="116.62489"
+     inkscape:cy="124.27074"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -64,7 +64,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-178.06828,-604.72228)">
+     transform="translate(-258.37511,-581.48906)">
     <rect
        style="fill:none;stroke:none"
        id="rect2415"
@@ -74,7 +74,7 @@
        width="281.42859" />
     <g
        id="g2995"
-       transform="matrix(0.35207406,0,0,0.35207406,115.37709,486.87335)">
+       transform="matrix(0.38601131,0,0,0.38601131,189.64097,452.28039)">
       <path
          transform="translate(70,-21.428571)"
          d="m 524.28571,564.50507 c 0,114.79633 -93.06082,207.85714 -207.85715,207.85714 -114.79633,0 -207.85715,-93.06081 -207.85715,-207.85714 0,-114.79634 93.06082,-207.85715 207.85715,-207.85715 114.79633,0 207.85715,93.06081 207.85715,207.85715 z"
