@@ -1,20 +1,27 @@
 ![](https://avatars0.githubusercontent.com/u/6559911?s=29) ПОДСКАЗКИ
 ===
 
+### `draft
 
-  `α` [Emacs](alpha/Emacs.md)
+  [Emacs](draft/Emacs.md)
 	
-  `α` [GitHub](alpha/GitHub.md)
-	
-  `α` [Ubuntu](alpha/Ubuntu.md)
+  [Ubuntu](draft/Ubuntu.md)
   
-  `β` [Markdown](beta/Markdown.md)
+  [Markdown](draft/Markdown.md)
 
-  `β` [Git](beta/Git.Hub.md)
+  [GitHub](draft/GitHub.md)
+
+  [Команды bash](draft/bash:commands.md)
+  
+### `production`  
+  
+  [Git](Git.Hub.md)
+
+  [MACOSX](MACOSX.md)
 	
-  `β` [Поисковые запросы](beta/Query-language.md)
+  [Поисковые запросы](Query-language.md)
 	
-  `β` [Команды bash](beta/bash:commands.md)
+
 
 ================
 
@@ -22,16 +29,14 @@
 
 На каждый новый файл подсказки создается `issue`.
 
-### Новые подсказки попадают в [`alpha (α)`](alpha). 
+### Новые подсказки попадают в [`draft`](draft)
  
- `α` версии могут содержать ошибки, неточности и неполную информацию.
+ Могут содержать ошибки, неточности и неполную информацию.
 
-### После исправления ошибок и обсуждения в `issue` подсказки переходят в [`beta (β)`](beta). 
+### После исправления ошибок и обсуждения в `issue` подсказки переходят [`production`](.)
 
- `β` версии могут содержать неточности или неполную информацию.
  
-### После исправления и дополнения подсказки попадают в [`production (π)`](.)
 
-В случае обнаружения в подсказках недочетов они переносятся из `π` в `α` или `β`.
+В случае обнаружения в подсказках недочетов они переносятся из `draft`
 
-**При переносе `α <-> β <-> π` не забываем править ссылки** в readme.md
+**При переносе `production <-> draft` **не забываем править ссылки** в readme.md
