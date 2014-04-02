@@ -1,3 +1,6 @@
+#!/bin/bash 
+
+cat <<EOF >> ~/.bash_profile
 alias "ды"="ls"
 alias "зцв"="pwd"
 alias "св"="cd"
@@ -25,7 +28,7 @@ alias "икуц"="brew"
 alias "ьфсзщкеы"="macports"
 alias "сфе"="cat"
 alias "шасщташп"="ifconfig"
-alias "ап"= "fg"
+alias "ап"="fg"
 alias "ещгср"="touch"
 alias "екфсукщгеу"="traceroute"
 alias "лшдд"="kill"
@@ -54,4 +57,7 @@ alias "згыр"="push"
 alias "сщььше"="commit"
 alias "уьфсы"="emacs"
 alias "сдуфк"="clear"
+
+EOF
+
 
