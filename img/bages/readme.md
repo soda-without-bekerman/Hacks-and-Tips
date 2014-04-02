@@ -1,5 +1,5 @@
 # ---------------------------------------------------------
-![photo](Foursquare.svg)                                        ![photo](Foursquare2.svg)
+![photo](Foursquare.svg)                     |                   ![photo](Foursquare2.svg)
 
 # ---------------------------------------------------------
 ![photo](Github.svg)
