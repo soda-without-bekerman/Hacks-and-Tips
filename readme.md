@@ -5,20 +5,20 @@
 
 ===============
 
-### == ПРАВИЛА == [>>](RULES)
+### == ПРАВИЛА == [>>](DOCS/RULES)
 
- - [Написания кода](RULES/CODING.md)
- - [Кодекс поведения](RULES/CULTURE.md)
- - [Начисления кармы](RULES/KARMA.md)
+ - [Написания кода](DOCS/RULES/CODING.md)
+ - [Кодекс поведения](DOCS/RULES/CULTURE.md)
+ - [Начисления кармы](DOCS/RULES/KARMA.md)
 
 ===============
 
-### == ЭКЗАМЕНЫ == [>>](EXAMS)
+### == ЭКЗАМЕНЫ == [>>](TEST)
 
- - [Вопросы](EXAMS/QUESTIONS)
- - [Ответы](EXAMS/ANSWERS)
- - [Хвосты](EXAMS/arrears.md)
- - [Предстоящие](EXAMS/coming.md)
+ - [Вопросы](TEST/QUESTIONS)
+ - [Ответы](TEST/ANSWERS)
+ - [Хвосты](TEST/arrears.md)
+ - [Предстоящие](TEST/coming.md)
  - [Достижения](karma.md)
 
 ===============
@@ -46,4 +46,4 @@
 # Есть свежие Идеи, стремные Проблемы и смелые Решения? 
 ### Ок. Не стесняемся! дополняем / улучшаем / размещаем в [`issues`](https://github.com/soda-io/Hacks-and-Tips/issues/new)
 
-![](./media/SODA.gif)
+![](./img/SODA.gif)
