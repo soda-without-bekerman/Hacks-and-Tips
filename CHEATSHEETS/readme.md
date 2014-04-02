@@ -1,7 +1,7 @@
 ![](https://avatars0.githubusercontent.com/u/6559911?s=29) ПОДСКАЗКИ
 ===
 
-### `draft
+### `draft`
 
   [Emacs](draft/Emacs.md)
 	
@@ -39,4 +39,4 @@
 
 В случае обнаружения в подсказках недочетов они переносятся из `draft`
 
-**При переносе `production <-> draft` **не забываем править ссылки** в readme.md
+**При переносе `production <-> draft` не забываем править ссылки** в readme.md
