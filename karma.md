@@ -3,7 +3,7 @@
 
 |                                                                                                    |     карма     | экзамены/практика |  попытки (экз.) | практика |     **+K**    |
 |----------------------------------------------------------------------------------------------------|:-------------:|:-----------------:|:---------------:|:--------:|--------------:|
-| [![](https://avatars1.githubusercontent.com/u/4226210?s=40)](https://github.com/SherozKarimov)     |   7.30         |        да/да      |       3/3       |   4/3    | верный ответ  |
+| [![](https://avatars1.githubusercontent.com/u/4226210?s=40)](https://github.com/SherozKarimov)     |   8.30         |        да/да      |       3/3       |   4/3    |   упорство    |
 | [![](https://avatars2.githubusercontent.com/u/3838734?s=40)](https://github.com/MaximLoguncov)     |   4.75        |        да/да      |       3/3       |   3/3    |               |
 | [![](https://avatars2.githubusercontent.com/u/5991448?s=40)](https://github.com/DmitryShiukaev)    |   1.75        |        да/да      |       7/3       |   3/3    |               |
 | [![](https://avatars3.githubusercontent.com/u/4639509?s=40)](https://github.com/ArtemKvadzba)      |  -0.95        |        да/да      |       6/3       |   3/3    |               |
