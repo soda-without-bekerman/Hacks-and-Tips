@@ -4,11 +4,19 @@
 
 |        |           |
 |:-------|:---------:|
-| тест     | ![photo](../media/bages/first.svg) |
-| экзамены | ![photo](../media/bages/exams.svg) |
-| практика | ![photo](../media/bages/praktika.svg) |
-| хвосты   | ![photo](../media/bages/second.svg) |
-| ошибки   | ![photo](../media/bages/second.svg) |
-| хаки   | ![photo](../media/bages/third.svg) |
-| задачи   | ![photo](../media/bages/third.svg) |
+| тест     | ![photo](../img/bages/first.svg)
+![photo](../img/bages/second.svg)
+![photo](../img/bages/third.svg)
+|
+| экзамены | ![photo](../img/bages/exams.svg) |
+| практика | ![photo](../img/bages/praktika.svg)
+![photo](../img/bages/first2.svg)
+![photo](../img/bages/second2.svg)
+![photo](../img/bages/third2.svg)
+|
+|
+| хвосты   | ![photo](../img/bages/---.svg) |
+| ошибки   | ![photo](../img/bages/---.svg) |
+| хаки   | ![photo](../img/bages/---.svg) |
+| задачи   | ![photo](../img/bages/---.svg) |
 | | |
