@@ -25,20 +25,20 @@
 
 ### == ШПАРГАЛКИ == [>>](CHEATSHEETS)
 
- - [Git](CHEATSHEETS/beta/Git.Hub.md)
- - [Bash:commands](CHEATSHEETS/beta/bash:commands.md)
- - [Markdown](CHEATSHEETS/beta/Markdown.md)
- - [GitHub](CHEATSHEETS/alpha/GitHub.md)
- - [Emacs](CHEATSHEETS/alpha/Emacs.md)
- - [Ubuntu](CHEATSHEETS/alpha/Ubuntu.md)
- - [Query-language](CHEATSHEETS/beta/Query-language.md)
+ - [Git](CHEATSHEETS/Git.Hub.md)
+ - [Bash:commands](CHEATSHEETS/draft/bash:commands.md)
+ - [Markdown](CHEATSHEETS/draft/Markdown.md)
+ - [GitHub](CHEATSHEETS/draft/GitHub.md)
+ - [Emacs](CHEATSHEETS/draft/Emacs.md)
+ - [Ubuntu](CHEATSHEETS/draft/Ubuntu.md)
+ - [Query-language](CHEATSHEETS/Query-language.md)
 
 
 ===============
 
 ### === HARDWARE === [>>](HARDWARE)
  
- - [ARDUINO](HARDWARE/ARDUINO/readme.md)
+ - [ARDUINO](HARDWARE/ARDUINO/README.md)
 
 
 ===============
