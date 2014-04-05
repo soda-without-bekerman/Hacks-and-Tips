@@ -1,7 +1,7 @@
 ![karma](3D-MODELS/MODELS/Maxim_L/Inkscape/svg/Karma/Karma_V3.svg) КАРМА
 ===
 
-|                                                                                                    |     карма     | экзамены/практика |  попытки (экз.) | практика |     **+K**    |
+|                                                                                                    |     карма     | экзамены/практика |  попытки (экз.) | практика |     ![karma](3D-MODELS/MODELS/Maxim_L/Inkscape/svg/Karma/Karma_V3.svg)    |
 |----------------------------------------------------------------------------------------------------|:-------------:|:-----------------:|:---------------:|:--------:|--------------:|
 | [![](https://avatars1.githubusercontent.com/u/4226210?s=40)](https://github.com/SherozKarimov)     |   8.65       |        да/да      |       3/3       |   4/3    |   модели    |
 | [![](https://avatars2.githubusercontent.com/u/3838734?s=40)](https://github.com/MaximLoguncov)     |   4.74        |        да/да      |       3/3       |   3/3    |     todo     |
