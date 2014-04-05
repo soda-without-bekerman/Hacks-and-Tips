@@ -1,13 +1,13 @@
 # Предстоящие экзамены
 
 ## Foursquare
-![photo](img/bages/Foursquare.svg)
+![photo](Hacks-and-Tips/img/bages/Foursquare.svg)
 
 ## CoffeeScript
-![photo](img/bages/Coffee.svg)
+![photo](Hacks-and-Tips/img/bages/Coffee.svg)
 
 ## Emacs
-![photo](img/bages/Emacs.svg)
+![photo](Hacks-and-Tips/img/bages/Emacs.svg)
 
 ## Medium
-![photo](img/bages/Medium.svg)
+![photo](Hacks-and-Tips/img/bages/Medium.svg)
