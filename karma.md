@@ -1,4 +1,4 @@
-![karma](img/bages/karma.png) КАРМА
+![karma](3D-MODELS/MODELS/Maxim_L/Inkscape/svg/Karma/Karma_V3.svg) КАРМА
 ===
 
 |                                                                                                    |     карма     | экзамены/практика |  попытки (экз.) | практика |     **+K**    |
