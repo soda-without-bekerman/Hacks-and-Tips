@@ -1,0 +1,24 @@
+difference(){
+cylinder(5,50,50);
+cylinder(5,40,40);
+}
+ translate([50,50,0])
+ difference(){
+ cylinder(5,50,50);
+ cylinder(5,40,40);
+}
+  translate([0,99.9,0])
+  difference(){
+  cylinder(5,50,50);
+  cylinder(5,40,40);
+}
+   translate([50,145,0])
+   difference(){
+   cylinder(5,50,50);
+   cylinder(5,40,40);
+}
+    translate([5,200,0])
+    difference(){
+    cylinder(5,50,50);
+    cylinder(5,40,40);
+}

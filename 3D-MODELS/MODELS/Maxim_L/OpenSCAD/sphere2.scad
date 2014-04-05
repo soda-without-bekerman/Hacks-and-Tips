@@ -1,0 +1,12 @@
+$fn=128;
+difference(){
+sphere(11);
+translate([0,0,-0.1])
+sphere(11);
+}
+translate([0,0,0])
+difference(){
+sphere(11);
+translate([0,0,0.1])
+sphere(11);
+}
