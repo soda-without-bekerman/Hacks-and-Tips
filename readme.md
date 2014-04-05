@@ -15,10 +15,10 @@
 
 ### == ЭКЗАМЕНЫ == [>>](TEST)
 
- - [Вопросы](TEST/QUESTIONS)
- - [Ответы](TEST/ANSWERS)
- - [Хвосты](TEST/arrears.md)
- - [Предстоящие](TEST/coming.md)
+ - [Вопросы](EXAMS/QUESTIONS)
+ - [Ответы](EXAMS/ANSWERS)
+ - [Хвосты](EXAMS/arrears.md)
+ - [Предстоящие](EXAMS/coming.md)
  - [Достижения](karma.md)
 
 ===============
@@ -32,6 +32,13 @@
  - [Emacs](CHEATSHEETS/alpha/Emacs.md)
  - [Ubuntu](CHEATSHEETS/alpha/Ubuntu.md)
  - [Query-language](CHEATSHEETS/beta/Query-language.md)
+
+
+===============
+
+### === HARDWARE === [>>](HARDWARE)
+ 
+ - [ARDUINO](HARDWARE/ARDUINO/readme.md)
 
 
 ===============
