@@ -33,6 +33,7 @@
  - [Ubuntu](CHEATSHEETS/draft/Ubuntu.md)
  - [Query-language](CHEATSHEETS/Query-language.md)
 
+ - [Emacs:настройка](CHEATSHEETS/emacs-setup.md)
 
 ===============
 
