@@ -3,13 +3,13 @@
 
 |                                                                                                    |     карма     | экзамены/практика |  попытки (экз.) | практика |     **+K**    |
 |----------------------------------------------------------------------------------------------------|:-------------:|:-----------------:|:---------------:|:--------:|--------------:|
-| [![](https://avatars1.githubusercontent.com/u/4226210?s=40)](https://github.com/SherozKarimov)     |   8.30         |        да/да      |       3/3       |   4/3    |   упорство    |
+| [![](https://avatars1.githubusercontent.com/u/4226210?s=40)](https://github.com/SherozKarimov)     |   8.65       |        да/да      |       3/3       |   4/3    |   модели    |
 | [![](https://avatars2.githubusercontent.com/u/3838734?s=40)](https://github.com/MaximLoguncov)     |   4.74        |        да/да      |       3/3       |   3/3    |     todo     |
 | [![](https://avatars2.githubusercontent.com/u/5991448?s=40)](https://github.com/DmitryShiukaev)    |   1.25        |        да/да      |       7/3       |   3/3    |    пропуск |
 | [![](https://avatars3.githubusercontent.com/u/4639509?s=40)](https://github.com/ArtemKvadzba)      |  -0.8        |        да/да      |       6/3       |   3/3    |       todo        |
 |                                                                                                    |               |                   |                 |          |               |
-| [![](https://avatars0.githubusercontent.com/u/3833771?s=40)](https://github.com/PavelShalaginov)   |   5.3(3.3)    |        да/нет     |       3/3       |   1/1    |               |
-| [![](https://avatars1.githubusercontent.com/u/6498865?s=40)](https://github.com/MishaRubnicov)     |   1.0(-1.0)   |        да/нет     |       4/3       |   1/0    |               |
+| [![](https://avatars0.githubusercontent.com/u/3833771?s=40)](https://github.com/PavelShalaginov)   |   5.3(4.3)    |        да/нет     |       3/3       |   2/2    |               |
+| [![](https://avatars1.githubusercontent.com/u/6498865?s=40)](https://github.com/MishaRubnicov)     |   2.0(1.0)   |        да/нет     |       4/3       |   3/2    |  практика     |
 | [![](https://avatars1.githubusercontent.com/u/6061182?s=40)](https://github.com/GeorgeOvchinnikov) |  -3.1        |        да/нет     |       4/3       |   3/2    |   экзамен,todo   |
 |                                                                                                    |               |                   |                 |          |               |
 | [![](https://avatars2.githubusercontent.com/u/6639503?s=40)](https://github.com/leonidprokopovich) |   2.45(-3.55)   |        нет/нет    |       0/0       |   0/0    |    todo |
