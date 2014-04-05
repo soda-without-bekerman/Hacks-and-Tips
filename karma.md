@@ -1,4 +1,4 @@
-![karma](Hacks-and-Tips / 3D-MODELS / MODELS / Maxim_L / Inkscape / svg / Karma / Karma_V3.svg) КАРМА
+![karma](3D-MODELS/MODELS/Maxim_L/Inkscape/svg/Karma/Karma_V3.svg) КАРМА
 ===
 
 |                                                                                                    |     карма     | экзамены/практика |  попытки (экз.) | практика |     **+K**    |
