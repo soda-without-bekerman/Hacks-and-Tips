@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="162.14316"
+   height="162.14316"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="hvost.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="119.83762"
+     inkscape:cy="56.594138"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1536"
+     inkscape:window-height="803"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-341.78296,-402.72328)">
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffc90f;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99975598;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3001"
+       sodipodi:cx="316.42856"
+       sodipodi:cy="564.50507"
+       sodipodi:rx="207.85715"
+       sodipodi:ry="207.85715"
+       d="m 524.28571,564.50507 c 0,114.79633 -93.06082,207.85714 -207.85715,207.85714 -114.79633,0 -207.85715,-93.06081 -207.85715,-207.85714 0,-114.79634 93.06082,-207.85715 207.85715,-207.85715 114.79633,0 207.85715,93.06081 207.85715,207.85715 z"
+       transform="matrix(0.38909494,0,0,0.38909494,299.73639,264.14469)" />
+    <path
+       transform="matrix(0.32773612,0,0,0.32773612,318.92973,298.94881)"
+       d="m 524.28571,564.50507 c 0,114.79633 -93.06082,207.85714 -207.85715,207.85714 -114.79633,0 -207.85715,-93.06081 -207.85715,-207.85714 0,-114.79634 93.06082,-207.85715 207.85715,-207.85715 114.79633,0 207.85715,93.06081 207.85715,207.85715 z"
+       sodipodi:ry="207.85715"
+       sodipodi:rx="207.85715"
+       sodipodi:cy="564.50507"
+       sodipodi:cx="316.42856"
+       id="path3003"
+       style="fill:#2a17b1;fill-opacity:1;fill-rule:evenodd;stroke-width:1.18693054;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:type="arc" />
+    <path
+       id="path566"
+       d="m 461.13062,484.5917 a 37.52531,37.513047 0 1 0 -75.05062,0 37.525315,37.513152 0 0 0 75.05063,-3e-5 l -37.52532,3e-5 37.52531,0 z"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#bf0000;stroke-width:6.12525415" />
+    <path
+       id="path575"
+       d="m 459.564,484.26061 a 35.751967,34.580464 0 1 0 -71.50393,0 35.751967,34.580566 0 0 0 71.50393,6e-5 l -35.75205,-6e-5 35.75205,0 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:1pt" />
+    <path
+       id="path567"
+       d="m 399.49887,456.42635 47.34926,55.6465"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#bf0000;stroke-width:6.4248395" />
+    <text
+       transform="scale(-1.2382934,0.80756304)"
+       xml:space="preserve"
+       font-size="24"
+       id="svg_1"
+       y="598.59967"
+       x="-319.09091"
+       style="font-size:6.14948463px;text-anchor:middle;fill:#000000;stroke-width:0;stroke-dasharray:none;font-family:Arial" />
+    <text
+       transform="scale(1.0371507,0.96418006)"
+       xml:space="preserve"
+       font-size="24"
+       id="svg_2"
+       y="506.1087"
+       x="408.98233"
+       font-weight="bold"
+       style="font-size:8.97253418px;font-weight:bold;text-anchor:middle;fill:#000000;stroke-width:0;stroke-dasharray:none;font-family:Arial">ERROR</text>
+  </g>
+</svg>
