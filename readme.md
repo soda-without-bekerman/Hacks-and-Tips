@@ -25,22 +25,29 @@
 
 ### == ШПАРГАЛКИ == [>>](CHEATSHEETS)
 
- - [Git](CHEATSHEETS/Git.Hub.md)
- - [Bash:commands](CHEATSHEETS/draft/bash:commands.md)
  - [Markdown](CHEATSHEETS/draft/Markdown.md)
- - [GitHub](CHEATSHEETS/draft/GitHub.md)
  - [Emacs](CHEATSHEETS/draft/Emacs.md)
+ - [Emacs:настройка](CHEATSHEETS/emacs-setup.md)
+ - [Git](CHEATSHEETS/Git.Hub.md)
+ - [GitHub](CHEATSHEETS/draft/GitHub.md)
  - [Ubuntu](CHEATSHEETS/draft/Ubuntu.md)
+ - [Bash:commands](CHEATSHEETS/draft/bash:commands.md)
  - [Query-language](CHEATSHEETS/Query-language.md)
 
- - [Emacs:настройка](CHEATSHEETS/emacs-setup.md)
+===============
+
+### == *ЭРГОНОМИКА* == [>>](UX/UI)
+
+ - [readme.md](DOCS/RULES/UX/UI/readme.md)
+ - [license.md](DOCS/RULES/UX/UI/license.md)
+ - [.gitignore](DOCS/RULES/UX/UI/.gitignore.md)
+ - [package.json](DOCS/RULES/UX/UI/package.json)
 
 ===============
 
 ### === HARDWARE === [>>](HARDWARE)
  
  - [ARDUINO](HARDWARE/ARDUINO/README.md)
-
 
 ===============
 
