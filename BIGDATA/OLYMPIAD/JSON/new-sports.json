@@ -1,0 +1,59 @@
+[
+
+{ 
+"id": "jumping_skiing_women",
+"name": "Jumping Skiing Women",
+"type": "individual or team(4)",
+"date": "6.04.2011"
+},
+
+{
+"id": "team_competitions_in_figure_skating",
+"name": "Team competitions in figure skating",
+"type": "team",
+"date": "6.04.2011"
+},
+
+{
+"id": "freestyle",
+"name": "Freestyle",
+"type": "individua",
+"date": "6.04.2011"
+},
+
+{
+"id": "snowboard_slopestyle",
+"name": "Snowboard slopestyle",
+"type": "individua",
+"date": "4.07.2011"
+},
+
+{
+"id": "parallel_slalom",
+"name": "Parallel slalom",
+"type": "individua",
+"date": "4.07.2011"
+},
+
+{
+"id": "ski_halfpipe",
+"name": "Ski halfpipe",
+"type": "individua",
+"date": "6.04.2011"
+},
+
+{
+"id": "team_competition_in_luge",
+"name": "Team competition in luge",
+"type": "team",
+"date": "6.04.2011"
+},
+
+{
+"id": "mixed_relay_in_biathlon",
+"name": "Mixed relay in biathlon",
+"type": "team",
+"date": "6.04.2011"
+}
+
+]
