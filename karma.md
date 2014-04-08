@@ -3,7 +3,7 @@
 
 |                                                                                                    |     карма     | экзамены/практика |  попытки (экз.) | практика |     ![karma](PROJECTS/3D-PRINTR/MODELS/Maxim_L/Inkscape/svg/Karma/Karma_V3.svg)    |
 |----------------------------------------------------------------------------------------------------|:-------------:|:-----------------:|:---------------:|:--------:|--------------:|
-| [![](https://avatars1.githubusercontent.com/u/4226210?s=40)](https://github.com/SherozKarimov)     |   8.65       |        да/да      |       3/3       |   4/3    |   модели    |
+| [![](https://avatars1.githubusercontent.com/u/4226210?s=40)](https://github.com/SherozKarimov)     |   9.01       |        да/да      |       3/3       |   4/3    |   чистота & порядок    |
 | [![](https://avatars2.githubusercontent.com/u/3838734?s=40)](https://github.com/MaximLoguncov)     |   4.74        |        да/да      |       3/3       |   3/3    |     todo     |
 | [![](https://avatars2.githubusercontent.com/u/5991448?s=40)](https://github.com/DmitryShiukaev)    |   1.25        |        да/да      |       7/3       |   3/3    |    пропуск |
 | [![](https://avatars3.githubusercontent.com/u/4639509?s=40)](https://github.com/ArtemKvadzba)      |  -0.8        |        да/да      |       6/3       |   3/3    |       todo        |
