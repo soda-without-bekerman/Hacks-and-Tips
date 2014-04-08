@@ -26,7 +26,7 @@
         └── my_model.png
 ```
 
-## === ОЧЕРЕДЬ ПЕЧАТИ === [>>>](https://github.com/soda-io/Hacks-and-Tips/tree/master/3D-MODELS/QUEUE) ===
+## === ОЧЕРЕДЬ ПЕЧАТИ === [>>>](https://github.com/soda-io/Hacks-and-Tips/tree/master/3D-MODELS/QUEUE)
 
 Очередь печати, это таблица заполненная снизу-вверх (самые последние записи вверху).
 
