@@ -9,16 +9,9 @@
 
  - [Кодекс поведения](DOCS/RULES/CULTURE.md)
  - [Начисления кармы](DOCS/RULES/KARMA.md)
+ - [Написания кода](DOCS/RULES/CODING.md)
+ - [Оформления репо](DOCS/RULES/REPOS.md)
 
-### == ОФОРМЛЕНИЕ == [>>](UX/UI)
-
- - [кода](DOCS/RULES/CODING.md)
- - [репо](DOCS/RULES/REPOS.md)
- - [readme.md](DOCS/RULES/UX/UI/readme.md)
- - [license.md](DOCS/RULES/UX/UI/license.md)
- - [.gitignore](DOCS/RULES/UX/UI/.gitignore.md)
- - [package.json](DOCS/RULES/UX/UI/package.json)
- 
 ===============
 
 ### == ЭКЗАМЕНЫ == [>>](TEST)
