@@ -8,7 +8,6 @@
 | [![](https://avatars1.githubusercontent.com/u/4226210?s=40)](https://github.com/SherozKarimov)     |   9.31       |        да/да      |       3/3       |   4/3    |  api     |
 | [![](https://avatars2.githubusercontent.com/u/3838734?s=40)](https://github.com/MaximLoguncov)     |   4.34        |        да/да      |       3/3       |   3/3    |     не участвует в событиях {S}     |
 | [![](https://avatars2.githubusercontent.com/u/5991448?s=40)](https://github.com/DmitryShiukaev)    |   0.85        |        да/да      |       7/3       |   3/3    | не участвует в событиях {S}|
-|                                                                                                    |               |  
 | [![](https://avatars0.githubusercontent.com/u/3833771?s=40)](https://github.com/PavelShalaginov)   |   6.3    |        да/нет     |       3/3       |   3/3    |    практика     |
                  |                 |          |               |
 | [![](https://avatars1.githubusercontent.com/u/6498865?s=40)](https://github.com/MishaRubnicov)     |   1.6(0.6)   |        да/нет     |       4/3       |   3/2    |  не участвует в событиях {S}     |
