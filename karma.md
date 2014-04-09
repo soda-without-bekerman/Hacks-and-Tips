@@ -1,9 +1,9 @@
-![karma](PROJECTS/3D-PRINTR/MODELS/Maxim_L/Inkscape/svg/Karma/Karma_V3.svg) КАРМА
+![karma](PROJECTS/3D-PRINTR/MODELS/Maxim_L/Inkscape/svg/Karma/Karma_V3.png) КАРМА
 ===
 
 ## === АКТИВНЫЕ УЧАСТНИКИ ===
 
-|                                                                                                    |     карма     | экзамены/практика |  попытки (экз.) | практика |     ![karma](PROJECTS/3D-PRINTR/MODELS/Maxim_L/Inkscape/svg/Karma/Karma_V3.svg)    |
+|                                                                                                    |     карма     | экзамены/практика |  попытки (экз.) | практика |     ![karma](PROJECTS/3D-PRINTR/MODELS/Maxim_L/Inkscape/svg/Karma/Karma_V3.png)    |
 |----------------------------------------------------------------------------------------------------|:-------------:|:-----------------:|:---------------:|:--------:|--------------:|
 | [![](https://avatars1.githubusercontent.com/u/4226210?s=40)](https://github.com/SherozKarimov)     |   9.31       |        да/да      |       3/3       |   4/3    |  api     |
 | [![](https://avatars2.githubusercontent.com/u/3838734?s=40)](https://github.com/MaximLoguncov)     |   4.34        |        да/да      |       3/3       |   3/3    |     не участвует в событиях {S}     |
