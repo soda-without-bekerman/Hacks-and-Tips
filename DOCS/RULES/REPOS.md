@@ -1,4 +1,4 @@
-# === ![](https://avatars0.githubusercontent.com/u/6559911?s=28) Правила оформления репозиториев ===
+# === ![](https://avatars0.githubusercontent.com/u/6559911?s=28) ОФОРМЛЕНИЕ РЕПОЗИТОРИЕВ ===
 
 ## === ФАЙЛ `readme.md` ===
 
