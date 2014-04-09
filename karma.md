@@ -14,7 +14,7 @@
 |                                                                                                    |               |                   |                 |          |               |
 | [![](https://avatars2.githubusercontent.com/u/6639503?s=40)](https://github.com/leonidprokopovich) |   2.05(-3.95)   |        нет/нет    |       0/0       |   0/0    |  не участвует в событиях {S} |
 | [![](https://avatars0.githubusercontent.com/u/6568321?s=40)](https://github.com/TanyaPetrova)      |  1.0(-4.0)   |        нет/нет    |       1/1       |   0/0    |  не участвует в событиях {S} |
-| [![](https://avatars0.githubusercontent.com/u/6037393?s=40)](https://github.com/VictorPetukhov)    |   0.05(-5.95) |        нет/нет    |       0/0       |   0/0    | не участвует в событиях {S} |
+| [![](https://avatars0.githubusercontent.com/u/6037393?s=40)](https://github.com/VictorPetukhov)    |   0.25(-5.75) |        нет/нет    |       0/0       |   0/0    | не участвует в событиях {S} |
 | [![](https://avatars2.githubusercontent.com/u/6450286?s=40)](https://github.com/NikitaGolub)       |  -2.2(-6.8)   |        нет/нет    |       1/0       |   0/0    |  не участвует в событиях {S} |
 | [![](https://avatars0.githubusercontent.com/u/6639543?s=40)](https://github.com/EgorDergaew)       |  -2.65(-8.65) |        нет/нет    |       0/0       |   0/0    | не участвует в событиях {S} |
 
