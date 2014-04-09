@@ -7,7 +7,7 @@
 ## === АКТИВНЫЕ УЧАСТНИКИ ===
 
 |                                                                                                    |     карма     | экзамены/практика |  попытки (экз.) | практика |     ![karma](PROJECTS/3D-PRINTR/MODELS/Maxim_L/Inkscape/svg/Karma/Karma_V3.svg)    |
->>>>>>> 99e647fc1627fc707106095e0c2c2b0955b72cc4
+
 |----------------------------------------------------------------------------------------------------|:-------------:|:-----------------:|:---------------:|:--------:|--------------:|
 | [![](https://avatars1.githubusercontent.com/u/4226210?s=40)](https://github.com/SherozKarimov)     |   9.31       |        да/да      |       3/3       |   4/3    |  api     |
 | [![](https://avatars0.githubusercontent.com/u/3833771?s=40)](https://github.com/PavelShalaginov)   |   6.3    |        да/нет     |       3/3       |   3/3    |    практика     |
