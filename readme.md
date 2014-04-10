@@ -26,6 +26,7 @@
 
 ### == ШПАРГАЛКИ == [>>](CHEATSHEETS)
 
+ - [Foursquare](https://github.com/soda-io/Hacks-and-Tips/blob/master/EXAMS/ANSWERS/foursquare.md)
  - [Markdown](CHEATSHEETS/draft/Markdown.md)
  - [Emacs](CHEATSHEETS/draft/Emacs.md)
  - [Emacs:настройка](CHEATSHEETS/emacs-setup.md)
