@@ -12,7 +12,7 @@
                  |                 |          |               |
 | [![](https://avatars1.githubusercontent.com/u/6498865?s=40)](https://github.com/MishaRubnicov)     |   1.58(0.58)   |        да/нет     |       4/3       |   3/2    |  практика     |
 |                                                                                                    |               |                   |                 |          |               |
-| [![](https://avatars2.githubusercontent.com/u/6639503?s=40)](https://github.com/leonidprokopovich) |   2.05(-3.95)   |        нет/нет    |       0/0       |   0/0    |  не участвует в событиях {S} |
+| [![](https://avatars2.githubusercontent.com/u/6639503?s=40)](https://github.com/leonidprokopovich) |   4.20(0.20)   |        нет/нет    |       1/1       |   0/0    |  twitter |
 | [![](https://avatars0.githubusercontent.com/u/6568321?s=40)](https://github.com/TanyaPetrova)      |  1.0(-4.0)   |        нет/нет    |       1/1       |   0/0    |  не участвует в событиях {S} |
 | [![](https://avatars0.githubusercontent.com/u/6037393?s=40)](https://github.com/VictorPetukhov)    |   0.25(-5.75) |        нет/нет    |       0/0       |   0/0    |  |
 | [![](https://avatars2.githubusercontent.com/u/6450286?s=40)](https://github.com/NikitaGolub)       |  -2.2(-6.8)   |        нет/нет    |       1/0       |   0/0    |  не участвует в событиях {S} |
