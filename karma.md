@@ -24,6 +24,6 @@
 
 |                                                                                                    |     карма     | экзамены/практика |  попытки (экз.) | практика |![karma](https://github.com/soda-io/Hacks-and-Tips/blob/master/img/Karma/Karma_V3.png?raw=10)    |
 |----------------------------------------------------------------------------------------------------|:-------------:|:-----------------:|:---------------:|:--------:|--------------:|
-| [![](https://avatars2.githubusercontent.com/u/3838734?s=40)](https://github.com/MaximLoguncov)     |   4.44        |        да/да      |       3/3       |   3/3    |     todo    | собственное желание|
+| [![](https://avatars2.githubusercontent.com/u/3838734?s=40)](https://github.com/MaximLoguncov)     |   4.44        |        да/да      |       3/3       |   3/3    | собственное желание|
 | [![](https://avatars3.githubusercontent.com/u/4639509?s=40)](https://github.com/ArtemKvadzba)      |  -0.8        |        да/да      |       6/3       |   3/3    |   собственное желание     |
 | [![](https://avatars1.githubusercontent.com/u/6061182?s=40)](https://github.com/GeorgeOvchinnikov) |  -3.1        |        да/нет     |       4/3       |   3/2    |    собственное желание     |
