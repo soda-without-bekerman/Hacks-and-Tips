@@ -26,6 +26,6 @@
 
 ### по индивидуальной договоренности
 
-  [![](https://avatars0.githubusercontent.com/u/3833771?s=50)](https://github.com/PavelShalaginov)   [![](https://avatars1.githubusercontent.com/u/6498865?s=50)](https://github.com/MishaRubnicov)    [![](https://avatars0.githubusercontent.com/u/6568321?s=50)](https://github.com/TanyaPetrova)  
+ [![](https://avatars1.githubusercontent.com/u/6498865?s=50)](https://github.com/MishaRubnicov)    [![](https://avatars0.githubusercontent.com/u/6568321?s=50)](https://github.com/TanyaPetrova)  
 
 ![](http://v.img.com.ua/b/300x200/c/b8/84c9889f0847f2b4f26fe3e40645eb8c.jpg)
