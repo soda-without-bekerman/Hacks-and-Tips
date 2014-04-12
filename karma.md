@@ -18,7 +18,7 @@
 | [![](https://avatars0.githubusercontent.com/u/6037393?s=40)](https://github.com/VictorPetukhov)    |   0.25 |        нет/нет    |       0/0       |   0/0    |  |
 | [![](https://avatars2.githubusercontent.com/u/6450286?s=40)](https://github.com/NikitaGolub)       |  -2.0   |        нет/нет    |       2/1       |   0/0    |  не участвует в событиях {S} |
 | [![](https://avatars0.githubusercontent.com/u/6639543?s=40)](https://github.com/EgorDergaew)       |  -3.65 |        нет/нет    |       0/0       |   0/0    | пропуск занятий |
->>>>>>> 24fb2ff6128d0f4b53338549c7663792d8dcd5b8
+
 
 
 
