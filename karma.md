@@ -3,7 +3,7 @@
 
 ## == АКТИВНЫЕ УЧАСТНИКИ ==
 
-<<<<<<< HEAD
+<HEAD
 |                                                                                                    |     карма     | экзамены/практика |  попытки (экз.) | практика | ![karma](https://github.com/soda-io/Hacks-and-Tips/blob/master/img/Karma/Karma_V3.png?raw=10)    |                 |
 |-----------------------------------------------------|:-------------:|:-----------------:|:---------------:|:--------:|--------------:|
 | [![](https://avatars1.githubusercontent.com/u/4226210?s=40)](https://github.com/SherozKarimov)     |   14.0       |        да/да      |       5/5       |   6/5    |  medium/4sq/экскурсия   |
