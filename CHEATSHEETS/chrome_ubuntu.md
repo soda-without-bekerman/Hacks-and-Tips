@@ -29,7 +29,7 @@ Google делает все сам
 
 ![photo](../img/images/chrome_ubuntu/chrome_ubuntu7.png)
 
-Назнааем Chrome браузером по умолчанию
+Назначаем Chrome браузером по умолчанию
 
 ![photo](../img/images/chrome_ubuntu/chrome_ubuntu8.png)
 
