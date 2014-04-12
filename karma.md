@@ -1,4 +1,4 @@
-  ![karma](https://github.com/soda-io/Hacks-and-Tips/blob/master/img/Karma/Karma_V3.png?raw=10) КАРМА
+ ![karma](https://github.com/soda-io/Hacks-and-Tips/blob/master/img/Karma/Karma_V3.png?raw=10) КАРМА
 ===
   
 ## == АКТИВНЫЕ УЧАСТНИКИ ==
