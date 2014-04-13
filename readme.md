@@ -12,6 +12,9 @@
  - [Написания кода](DOCS/RULES/CODING.md)
  - [Оформления репо](DOCS/RULES/REPOS.md)
 
+//
+- [Родители](DOCS/RULES/PARENTS.md)
+
 ===============
 
 ### == ЭКЗАМЕНЫ == [>>](TEST)
