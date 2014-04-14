@@ -1,16 +1,16 @@
-# COFFEE-SCRIPT
+# == `COFFEE-SCRIPT` ==
 
-## [ВВЕДЕНИЕ](intro.md)
+## == [ВВЕДЕНИЕ](intro.md) ==
 
-## [ТИПЫ ДАННЫХ](datatypes.md)
+## == [ТИПЫ ДАННЫХ](datatypes.md) ==
 
-## [ФУНКЦИИ](functions.md)
+## == [ФУНКЦИИ](functions.md) ==
 
-## [УСЛОВНЫЕ ОПЕРАТОРЫ](conditions.md)
+## == [УСЛОВНЫЕ ОПЕРАТОРЫ](conditions.md) ==
 
-## [РЕГУЛЯРНЫЕ ВЫРАЖЕНИЯ](regexp.md)
+## == [РЕГУЛЯРНЫЕ ВЫРАЖЕНИЯ](regexp.md) ==
 
-## [МОДУЛИ](modules.md)
+## == [МОДУЛИ](modules.md) ==
 
-## [КЛАССЫ](classes.md)
+## == [КЛАССЫ](classes.md) ==
 
