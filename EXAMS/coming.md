@@ -60,4 +60,4 @@
 
 # Не допускаются к сдаче
 
- [![](https://avatars1.githubusercontent.com/u/6498865?s=40)](https://github.com/MishaRubnicov)  [![](https://avatars1.githubusercontent.com/u/6061182?s=40)](https://github.com/GeorgeOvchinnikov)  [![](https://avatars2.githubusercontent.com/u/6450286?s=40)](https://github.com/NikitaGolub)  [![](https://avatars0.githubusercontent.com/u/6568321?s=40)](https://github.com/TanyaPetrova)  [![](https://avatars0.githubusercontent.com/u/6037393?s=40)](https://github.com/VictorPetukhov)   [![](https://avatars0.githubusercontent.com/u/6639543?s=40)](https://github.com/EgorDergaew)
+ [![](https://avatars1.githubusercontent.com/u/6498865?s=40)](https://github.com/MishaRubnicov)  [![](https://avatars1.githubusercontent.com/u/6061182?s=40)](https://github.com/GeorgeOvchinnikov)  [![](https://avatars2.githubusercontent.com/u/6450286?s=40)](https://github.com/NikitaGolub)  [![](https://avatars0.githubusercontent.com/u/6568321?s=40)](https://github.com/TanyaPetrova)  [![](https://avatars0.githubusercontent.com/u/6037393?s=40)](https://github.com/VictorPetukhov)  

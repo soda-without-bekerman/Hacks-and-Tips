@@ -1,10 +1,10 @@
 ## Экзамены
 ================
-### Сдают до 16 апреля
+### Сдают до 18 апреля
 
   [![](https://avatars2.githubusercontent.com/u/6639503?s=50)](https://github.com/leonidprokopovich) 
   [![](https://avatars0.githubusercontent.com/u/6037393?s=50)](https://github.com/VictorPetukhov) 
-  [![](https://avatars0.githubusercontent.com/u/6639543?s=50)](https://github.com/EgorDergaew) 
+
 
 
 ![](http://shkolazhizni.ru/img/content/i13/13324.jpg)
@@ -13,7 +13,7 @@
 ================
 
 
-### 1 раз в неделю (вторник)
+### 1 раз в неделю
 
   [![](https://avatars3.githubusercontent.com/u/6450286?s=50)](https://github.com/NikitaGolub)   [![](https://avatars1.githubusercontent.com/u/6061182?s=50)](https://github.com/GeorgeOvchinnikov) 
 
