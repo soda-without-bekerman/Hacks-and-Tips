@@ -1,6 +1,6 @@
 # Вопросы по Github / git
 
- - **что такое**
+ - **ЧТО ТАКОЕ**
    - `repo`
    - `commit`
    - `pull-request` (`PR`)
