@@ -16,9 +16,9 @@
 | [![](https://avatars1.githubusercontent.com/u/6061182?s=40)](https://github.com/GeorgeOvchinnikov) |  -4.6        |        да/нет     |       4/3       |   3/2    |   практика/пропуск   | ![photo](https://github.com/soda-io/Hacks-and-Tips/blob/master/img/bages/Terminal.png?raw=10) ![photo](https://github.com/soda-io/Hacks-and-Tips/blob/master/img/bages/Twitter.png?raw=10)  |
 |                   |                 |          |               |       |
 |                                                                                                    |               |                   |                 |          |               |       |
-| [![](https://avatars0.githubusercontent.com/u/6568321?s=40)](https://github.com/TanyaPetrova)      |  1.0   |        нет/нет    |       1/1       |   0/0    |  не участвует в событиях {S} |  ![photo](https://github.com/soda-io/Hacks-and-Tips/blob/master/img/bages/Medium.png?raw=10)     |
-| [![](https://avatars0.githubusercontent.com/u/6037393?s=40)](https://github.com/VictorPetukhov)    |   0.25 |        нет/нет    |       0/0       |   0/0    |  |       |
-| [![](https://avatars2.githubusercontent.com/u/6450286?s=40)](https://github.com/NikitaGolub)       |  -2.0   |        нет/нет    |       2/1       |   0/0    |  не участвует в событиях {S} |   ![photo](https://github.com/soda-io/Hacks-and-Tips/blob/master/img/bages/Foursquare.png?raw=10)    |
+| [![](https://avatars0.githubusercontent.com/u/6568321?s=40)](https://github.com/TanyaPetrova)      |  -4.5  |        нет/нет    |       1/1       |   0/0    |  экзамены/todo |  ![photo](https://github.com/soda-io/Hacks-and-Tips/blob/master/img/bages/Medium.png?raw=10)     |
+| [![](https://avatars2.githubusercontent.com/u/6450286?s=40)](https://github.com/NikitaGolub)       |  -7.0   |        нет/нет    |       2/1       |   0/0    |  экзамены |   ![photo](https://github.com/soda-io/Hacks-and-Tips/blob/master/img/bages/Foursquare.png?raw=10)    |
+| [![](https://avatars0.githubusercontent.com/u/6037393?s=40)](https://github.com/VictorPetukhov)    |  -7.0 |        нет/нет    |       0/0       |   0/0    | экзамены/todo/посещение |       |
 
   
   
