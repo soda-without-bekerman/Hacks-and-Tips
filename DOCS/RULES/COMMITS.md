@@ -1,4 +1,4 @@
-# Правила для `commit` / `issues` / `pull-requests`
+# == `commit` / `issues` / `pull-requests` ==
 
 ## `commit`
 
