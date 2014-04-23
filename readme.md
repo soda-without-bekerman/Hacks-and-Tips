@@ -10,6 +10,7 @@
  - [Кодекс поведения](DOCS/RULES/CULTURE.md)
  - [Начисления кармы](DOCS/RULES/KARMA.md)
  - [Написания кода](DOCS/RULES/CODING.md)
+ - [`commit`/`issue`/`pull-request`](DOCS/RULES/COMMITS.md)
  - [Оформления репо](DOCS/RULES/REPOS.md)
 
 //
@@ -23,7 +24,9 @@
  - [Ответы](EXAMS/ANSWERS)
  - [Хвосты](EXAMS/arrears.md)
  - [Предстоящие](EXAMS/coming.md)
- - [Достижения](karma.md)
+
+===============
+### == ДОСТИЖЕНИЯ == [>>](karma.md)
 
 ===============
 
