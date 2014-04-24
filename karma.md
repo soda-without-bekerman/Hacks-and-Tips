@@ -17,7 +17,7 @@
 | [![](https://avatars1.githubusercontent.com/u/6061182?s=40)](https://github.com/GeorgeOvchinnikov) |  -4.3        |        да/нет     |       4/3       |   3/3    |   github   |  ![photo](/img/bages/png/32x32/bw/Githubbw.png) ![photo](/img/bages/png/32x32/bw/Terminalbw.png) ![photo](/img/bages/png/32x32/bw/Twitterbw.png)   |
 |                   |                 |          |               |       |
 |                                                                                                    |               |                   |                 |          |               |       |
-| [![](https://avatars2.githubusercontent.com/u/6450286?s=40)](https://github.com/NikitaGolub)       |  -7.0   |        нет/нет    |       2/1       |   0/0    |  экзамены | ![photo](/img/bages/png/32x32/bw/Foursquarebw.png)   |
+| [![](https://avatars2.githubusercontent.com/u/6450286?s=40)](https://github.com/NikitaGolub)       |  -6.0         |        нет/нет    |       2/2       |   2/2    |  экзамены | ![photo](/img/bages/png/32x32/bw/Foursquarebw.png) ![photo](/img/bages/png/32x32/bw/Twitterbw.png)  |
 
 
   
