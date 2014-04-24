@@ -15,8 +15,10 @@
 
 //
 - [Родители](DOCS/RULES/PARENTS.md)
+- [Учителя](DOCS/RULES/TEACHERS.md)
+- [Менторы](DOCS/RULES/MENTORS.md)
 
-===============
+***
 
 ### == ЭКЗАМЕНЫ == [>>](TEST)
 
@@ -25,14 +27,16 @@
  - [Хвосты](EXAMS/arrears.md)
  - [Предстоящие](EXAMS/coming.md)
 
-===============
-### == ДОСТИЖЕНИЯ == [>>](karma.md)
+***
 
-===============
+### == ДОСТИЖЕНИЯ == [>>](up)
+ - [Карма](karma.md)
+ - [Награды](awards.md)
+
+***
 
 ### == ШПАРГАЛКИ == [>>](CHEATSHEETS)
 
- - [Foursquare](https://github.com/soda-io/Hacks-and-Tips/blob/master/EXAMS/ANSWERS/foursquare.md)
  - [Markdown](CHEATSHEETS/draft/Markdown.md)
  - [Emacs](CHEATSHEETS/draft/Emacs.md)
  - [Emacs:настройка](CHEATSHEETS/emacs-setup.md)
@@ -41,8 +45,8 @@
  - [Ubuntu](CHEATSHEETS/draft/Ubuntu.md)
  - [Bash:commands](CHEATSHEETS/draft/bash:commands.md)
  - [Query-language](CHEATSHEETS/Query-language.md)
-
-===============
+ - [Foursquare](EXAMS/ANSWERS/foursquare.md)
+***
 
 ### == WISHLIST == [>>](WISHLIST)
 
