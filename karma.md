@@ -19,6 +19,7 @@
 | [![](https://avatars2.githubusercontent.com/u/6450286?s=40)](https://github.com/NikitaGolub)       |  -7.0   |        нет/нет    |       2/1       |   0/0    |  экзамены |   ![photo](https://github.com/soda-io/Hacks-and-Tips/blob/master/img/bages/Foursquare.png?raw=10)    |
 
 
+
   
   
   
@@ -29,3 +30,4 @@
 |----------------------------------------------------------------------------------------------------|:-------------:|:-----------------:|:---------------:|:--------:|--------------:|
 | [![](https://avatars3.githubusercontent.com/u/4639509?s=40)](https://github.com/ArtemKvadzba)      |  -0.8        |        да/да      |       6/3       |   3/3    |   родители    |
 | [![](https://avatars0.githubusercontent.com/u/6037393?s=40)](https://github.com/VictorPetukhov)    |  -7.0 |        нет/нет    |       0/0       |   0/0    | нет |       |
+
