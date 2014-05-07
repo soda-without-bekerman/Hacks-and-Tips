@@ -288,7 +288,7 @@ m = null
 ```coffee-script
 # создать новую дату из unixtime
 d  = new Date # текущая дата и время
-d2 = Date.now # текущая дата и время в unixtime
+d2 = Date.now() # текущая дата и время в unixtime
 d3 = new Date 1372838636307 # дата из unixtime
 
 # разница между датами в миллисекундах
