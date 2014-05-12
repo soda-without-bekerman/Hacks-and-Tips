@@ -17,7 +17,7 @@
 | [![](https://avatars1.githubusercontent.com/u/6061182?s=40)](https://github.com/GeorgeOvchinnikov) |  -1.8        |        да/нет     |       4/3       |   3/3    |   конференция, катушки   |  ![photo](/img/bages/png/32x32/bw/Githubbw.png) ![photo](/img/bages/png/32x32/bw/Terminalbw.png) ![photo](/img/bages/png/32x32/bw/Twitterbw.png)   |
 |                   |                 |          |               |       |
 |                                                                                                    |               |                   |                 |          |               |       |
-| [![](https://avatars2.githubusercontent.com/u/6450286?s=40)](https://github.com/NikitaGolub)       |  -2.0         |        нет/нет    |       2/2       |   2/2    |  ретвит ни о чем | ![photo](/img/bages/png/32x32/bw/Foursquarebw.png) ![photo](/img/bages/png/32x32/bw/Twitterbw.png)  |
+| [![](https://avatars2.githubusercontent.com/u/6450286?s=40)](https://github.com/NikitaGolub)       |  -2.5         |        нет/нет    |       2/2       |   2/2    |  ретвит  rykov | ![photo](/img/bages/png/32x32/bw/Foursquarebw.png) ![photo](/img/bages/png/32x32/bw/Twitterbw.png)  |
 
 
   
