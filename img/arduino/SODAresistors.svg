@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 10.0, SVG Export Plug-In . SVG Version: 3.0.0 Build 77)  -->
+
+<svg
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   enable-background="new 0 0 536.543 303.57"
+   height="37.597252"
+   i:pageBounds="0 792 612 0"
+   i:rulerOrigin="0 0"
+   i:viewOrigin="37 547"
+   overflow="visible"
+   space="preserve"
+   viewBox="0 0 350.53099 37.597251"
+   width="350.53101"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="SODAresistors.svg"
+   style="overflow:visible">
+  <defs
+     id="defs119" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1842"
+     inkscape:window-height="1057"
+     id="namedview117"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.9768408"
+     inkscape:cx="156.44028"
+     inkscape:cy="2.1282499"
+     inkscape:window-x="70"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Resistors</dc:title>
+        <dc:description>Resistors</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>science</rdf:li>
+            <rdf:li>resistor</rdf:li>
+            <rdf:li>electronic</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://www.openclipart.org/">
+            <dc:title>Open Clip Art Project</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent
+             rdf:about="http://web.resource.org/cc/PublicDomain">
+            <dc:title>Gerald G.</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent
+             rdf:about="http://web.resource.org/cc/PublicDomain">
+            <dc:title>Public Domain</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date>2005/05/31</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g3213"
+     transform="translate(-8.4200044e-6,0.03125)">
+    <path
+       style="fill:#808080;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       id="path9"
+       i:knockout="Off"
+       d="m 2.196,20.538 h 348.335 l -2.16,-2.7 H 0 l 2.196,2.7 z"
+       clip-rule="evenodd" />
+    <path
+       style="fill:#782121;fill-rule:evenodd;stroke:#000000;stroke-width:0.036;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path11"
+       stroke-miterlimit="10"
+       i:knockout="Off"
+       d="m 130.32,0.018 c 0,0 -0.792,8.82 -0.792,18.18 0,9.36 0.792,19.26 0.792,19.26 h 89.964 c 0,0 1.98,-9.612 1.98,-18.972 0,-9.36 -1.98,-18.468 -1.98,-18.468 H 130.32 z"
+       clip-rule="evenodd" />
+    <path
+       style="fill:#8d5c25;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       id="path13"
+       i:knockout="Off"
+       d="m 129.924,6.462 h 91.44 l 0.576,4.572 h -92.196 l 0.18,-4.572 z"
+       clip-rule="evenodd" />
+    <path
+       style="fill:#b0722e;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       id="path15"
+       i:knockout="Off"
+       d="m 129.59985,29.167952 h 91.96164 l 0.21512,-2.939904 H 129.564 l 0.0359,2.939904 z"
+       clip-rule="evenodd" />
+    <path
+       style="fill:#1d0e82;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       id="path17"
+       i:knockout="Off"
+       d="m 139.608,0.018 c -0.252,5.472 -0.432,11.34 -0.396,17.604 0.036,6.336 0.144,12.78 0.468,19.908 h 5.328 c -0.324,-7.128 -0.432,-13.572 -0.468,-19.908 -0.036,-6.264 0.144,-12.132 0.396,-17.604 h -5.328 z"
+       clip-rule="evenodd" />
+    <path
+       style="fill:#fb0f0c;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       id="path25"
+       i:knockout="Off"
+       d="m 209.34,0.054 c 0.252,5.508 0.324,11.268 0.36,17.568 -0.072,6.3 -0.216,12.852 -0.432,19.944 h -5.328 c 0.288,-7.092 0.396,-13.644 0.468,-19.944 0,-6.3 -0.18,-12.06 -0.396,-17.568 h 5.328 z"
+       clip-rule="evenodd" />
+    <flowRoot
+       transform="matrix(0.28697821,0,0,0.28697821,154.66864,22.274054)"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#501616;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
+       id="flowRoot3205"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3207"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#501616;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
+           y="-34.84874"
+           x="-28.833885"
+           height="74.866928"
+           width="223.58907"
+           id="rect3209" /></flowRegion><flowPara
+         id="flowPara3211">SODAlabs</flowPara></flowRoot>  </g>
+</svg>
