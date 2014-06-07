@@ -1,5 +1,5 @@
 # SODAbattery
-![photo](SODAbattery)
+![photo](SODAbattery.png)
 
 # SODAboard
 ![photo](SODAboard.png)
