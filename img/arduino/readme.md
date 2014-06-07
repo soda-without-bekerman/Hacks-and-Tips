@@ -1,17 +1,17 @@
-# ruler
-![photo](SODAbattery)
+# SODAbattery
+![photo](SODAbattery.png)
 
-# 
-![photo](SODAboard)
+# SODAboard
+![photo](SODAboard.png)
 
-# 
-![photo](SODAcapacitors)
+# SODAcapacitors
+![photo](SODAcapacitors.png)
 
-# 
-![photo](SODAdiodos)
+# SODAdiodos
+![photo](SODAdiodos.png)
 
-# 
-![photo](SODAlabsNano)
+# SODAlabsNano
+![photo](SODAlabsNano.png)
 
-# 
-![photo](SODAresistors)
+# SODAresistors
+![photo](SODAresistors.png)
