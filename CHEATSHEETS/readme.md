@@ -13,6 +13,8 @@
 
   [Команды bash](draft/bash:commands.md)
   
+  [Trello](draft/Trello.md)
+  
 ### `production`  
   
   [Git](Git.Hub.md)
