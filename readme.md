@@ -17,8 +17,7 @@
 
 //
 - [Родители](DOCS/RULES/PARENTS.md)
-- [Учителя](DOCS/RULES/TEACHERS.md)
-- [Менторы](DOCS/RULES/MENTORS.md)
+
 
 ***
 
@@ -33,7 +32,7 @@
 
 ### == ДОСТИЖЕНИЯ == [>>](up)
  - [Карма](karma.md)
- - [Награды](awards.md)
+
 
 ***
 
@@ -47,7 +46,7 @@
  - [Ubuntu](CHEATSHEETS/draft/Ubuntu.md)
  - [Bash:commands](CHEATSHEETS/draft/bash:commands.md)
  - [Query-language](CHEATSHEETS/Query-language.md)
- - [Foursquare](EXAMS/ANSWERS/foursquare.md)
+ - [Foursquare](https://github.com/soda-io/Hacks-and-Tips/blob/master/EXAMS/ANSWERS/Foursquare.md)
 ***
 
 ### == WISHLIST == [>>](WISHLIST)
