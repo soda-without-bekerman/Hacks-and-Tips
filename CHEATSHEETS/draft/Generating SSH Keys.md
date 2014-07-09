@@ -32,7 +32,8 @@ The authenticity of host 'github.com (207.97.227.239)' can't be established.
 # RSA key fingerprint is 16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48.
 # Are you sure you want to continue connecting (yes/no)? //прописываем yes, нажимаем Enter
 ```
-9. Если вы все сделали правильно, то должно появиться ```bash
+9. Если вы все сделали правильно, то должно появиться
+```bash
  Hi username! You've successfully authenticated, but GitHub does not
 # provide shell access.
 ```
