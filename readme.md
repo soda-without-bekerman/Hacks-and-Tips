@@ -47,7 +47,7 @@
  - [Ubuntu](CHEATSHEETS/draft/Ubuntu.md)
  - [Bash:commands](CHEATSHEETS/draft/bash:commands.md)
  - [Query-language](CHEATSHEETS/Query-language.md)
- - [Foursquare](EXAMS/ANSWERS/foursquare.md)
+ - [Foursquare](https://github.com/soda-io/Hacks-and-Tips/blob/master/EXAMS/ANSWERS/Foursquare.md)
 ***
 
 ### == WISHLIST == [>>](WISHLIST)
