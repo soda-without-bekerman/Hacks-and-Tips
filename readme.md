@@ -10,7 +10,7 @@
 ### == ПРАВИЛА == [>>](DOCS/RULES)
 
  - [Кодекс поведения](DOCS/RULES/CULTURE.md)
- - [Начисления кармы](DOCS/RULES/KARMA.md)
+ - [Техники безопасности](DOCS/RULES/ACCIDENT-PREVENTION.md)
  - [Написания кода](DOCS/RULES/CODING.md)
  - [`commit`/`issue`/`pull-request`](DOCS/RULES/COMMITS.md)
  - [Оформления репо](DOCS/RULES/REPOS.md)
