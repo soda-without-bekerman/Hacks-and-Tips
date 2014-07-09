@@ -17,8 +17,7 @@
 
 //
 - [Родители](DOCS/RULES/PARENTS.md)
-- [Учителя](DOCS/RULES/TEACHERS.md)
-- [Менторы](DOCS/RULES/MENTORS.md)
+
 
 ***
 
@@ -33,7 +32,7 @@
 
 ### == ДОСТИЖЕНИЯ == [>>](up)
  - [Карма](karma.md)
- - [Награды](awards.md)
+
 
 ***
 
