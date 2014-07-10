@@ -26,14 +26,7 @@
 
  - [Вопросы](EXAMS/QUESTIONS)
  - [Ответы](EXAMS/ANSWERS)
- - [Хвосты](EXAMS/arrears.md)
- - [Предстоящие](EXAMS/coming.md)
 
-***
-
-### == ДОСТИЖЕНИЯ == [>>](up)
- - [Карма](karma.md)
- - [Награды](awards.md)
 
 ***
 
@@ -48,8 +41,8 @@
  - [Ubuntu](CHEATSHEETS/draft/Ubuntu.md)
  - [Bash:commands](CHEATSHEETS/draft/bash:commands.md)
  - [Query-language](CHEATSHEETS/Query-language.md)
- - [Foursquare](EXAMS/ANSWERS/foursquare.md)
- - 
+ - [Foursquare](EXAMS/ANSWERS/Foursquare.md)
+ 
  
 ***
 
