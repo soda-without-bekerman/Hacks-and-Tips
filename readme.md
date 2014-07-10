@@ -40,6 +40,7 @@
 ### == ШПАРГАЛКИ == [>>](CHEATSHEETS)
 
  - [Markdown](CHEATSHEETS/draft/Markdown.md)
+ - [OpenSCAD](CHEATSHEETS/draft/OpenSCAD.md)
  - [Emacs](CHEATSHEETS/draft/Emacs.md)
  - [Emacs:настройка](CHEATSHEETS/emacs-setup.md)
  - [Git](CHEATSHEETS/Git.Hub.md)
@@ -48,6 +49,8 @@
  - [Bash:commands](CHEATSHEETS/draft/bash:commands.md)
  - [Query-language](CHEATSHEETS/Query-language.md)
  - [Foursquare](EXAMS/ANSWERS/foursquare.md)
+ - 
+ 
 ***
 
 ### == WISHLIST == [>>](WISHLIST)
