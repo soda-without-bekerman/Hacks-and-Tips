@@ -33,6 +33,6 @@
 |     |
 |:----:|
 | [![](https://avatars1.githubusercontent.com/u/8099823?s=40)](https://github.com/SanekBoboshko) | 
-| [![](https://avatars0.githubusercontent.com/u/8122301?s=40)](https://github.com/NatashaSMartinova) |
+| [Наташа Мартынова](https://github.com/NatashaSMartinova) |
 | [![](https://avatars0.githubusercontent.com/u/8088378?s=40)](https://github.com/NikitaGolubev) |
 
