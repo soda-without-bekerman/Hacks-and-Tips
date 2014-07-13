@@ -19,7 +19,7 @@
 | [![](https://avatars2.githubusercontent.com/u/8122030?s=40)](https://github.com/MishaVPavlenko)            | 0.0     |                | |
 | [![](https://avatars2.githubusercontent.com/u/8122008?s=40)](https://github.com/VovaVPavlenko)              | 0.0     |                | |
 | [![](https://avatars2.githubusercontent.com/u/8136175?s=40)](https://github.com/MokhortEvgeniy)            | 0.5    | три модели | |
-| [![](https://avatars2.githubusercontent.com/u/6450286?s=40)](https://github.com/NikitaGolub)                 | -2.0     | ушел без спроса, топил @leonidprokopovich | |
+| [![](https://avatars2.githubusercontent.com/u/6450286?s=40)](https://github.com/NikitaGolub)                 | -2.0     | ушел без спроса, топил [![](https://avatars3.githubusercontent.com/u/6639503?s=20)](https://github.com/leonidprokopovich) | |
 | [![](https://avatars1.githubusercontent.com/u/8055747?s=40)](https://github.com/RuslanPlotnikov)         | -1.5     | не скрыл `gist` с данными | |
 | [![](https://avatars3.githubusercontent.com/u/8099758?s=40)](https://github.com/VladShadursky)            | -1.0     | аватар                   | |
 | [![](https://avatars2.githubusercontent.com/u/8099812?s=40)](https://github.com/VyacheslavKrupa)           | 0.0      |                          | |
