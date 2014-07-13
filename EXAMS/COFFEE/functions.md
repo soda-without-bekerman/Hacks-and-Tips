@@ -98,5 +98,5 @@ par1 = f_defs 20           # = 104
 par2 = f_defs 20, 4        # = 84
 par3 = f_defs 20, 4, 7     # = 87
 
-console_log "#{par1}, #{par2}, #{par3}"
+console.log "#{par1}, #{par2}, #{par3}"
 ```
