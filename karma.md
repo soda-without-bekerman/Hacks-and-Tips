@@ -7,7 +7,7 @@
 |                                                                                                    |        |                      |                      |
 | [![](https://avatars2.githubusercontent.com/u/8099858?s=40)](https://github.com/AnastasiaGordeeva)     | 0.5  |  шахматы | |
 | [![](https://avatars2.githubusercontent.com/u/8133045?s=40)](https://github.com/artemstashok)               | 0.5  |  первая модель | |
-| [![](https://avatars2.githubusercontent.com/u/8080584?s=40)](https://github.com/ArtemVakalo)                 | -0.5 | пропуск без `issue` | |
+| [![](https://avatars2.githubusercontent.com/u/8080584?s=40)](https://github.com/ArtemVakalo)                 | -1.5 | 2 пропуска без `issue` | |
 | [![](https://avatars1.githubusercontent.com/u/8076405?s=40)](https://github.com/BogdanNemirovich)        | -0.5  | vkontakte             |  |
 | [![](https://avatars3.githubusercontent.com/u/8132673?s=40)](https://github.com/DanilRLevada)                | 0.5  |  модели             |  |
 | [![](https://avatars3.githubusercontent.com/u/5991448?s=40)](https://github.com/DmitryShiukaev)          | -2.0  | ушел без спроса, залез на крышу | |
