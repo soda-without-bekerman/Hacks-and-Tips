@@ -5,13 +5,10 @@
 |        |     ![karma](https://github.com/soda-io/Hacks-and-Tips/blob/master/img/Karma/Karma_V3.png?raw=10)        |  причина | примечание |
 |:---------------------------------------------------------------------------------------------------|:------:|:--------------------:|:--------------------:|
 |                                                                                                    |        |                      |                      |
-| [![](https://avatars2.githubusercontent.com/u/8099858?s=40)](https://github.com/AnastasiaGordeeva)     | 0.5  |  шахматы | |
+| [![](https://avatars2.githubusercontent.com/u/8099858?s=40)](https://github.com/AnastasiaGordeeva)     | -0.5  |  нет обратной связи | |
 | [![](https://avatars2.githubusercontent.com/u/8133045?s=40)](https://github.com/artemstashok)               | 0.5  |  первая модель | |
-| [![](https://avatars1.githubusercontent.com/u/8076405?s=40)](https://github.com/BogdanNemirovich)        | -0.5  | vkontakte             |  |
+| [![](https://avatars1.githubusercontent.com/u/8076405?s=40)](https://github.com/BogdanNemirovich)        | -1.5  | не выполнил задание {M}             |  |
 | [![](https://avatars3.githubusercontent.com/u/8132673?s=40)](https://github.com/DanilRLevada)                | 0.5  |  модели             |  |
-| [![](https://avatars3.githubusercontent.com/u/5991448?s=40)](https://github.com/DmitryShiukaev)          | -2.0  | ушел без спроса, залез на крышу | |
-| [![](https://avatars0.githubusercontent.com/u/7968419?s=40)](https://github.com/kateprokopovich)          | -1.0  |  правила безопасности | |
-| [![](https://avatars3.githubusercontent.com/u/6639503?s=40)](https://github.com/leonidprokopovich)      | -1.0  |  правила безопасности | |
 | [![](https://avatars0.githubusercontent.com/u/8111220?s=40)](https://github.com/kvastvyan)                        | 0.0   |         | |
 | [![](https://avatars1.githubusercontent.com/u/8091469?s=40)](https://github.com/LizaPanasenko)             | 0.75  | модели, `CoffeeScript` | |
 | [![](https://avatars0.githubusercontent.com/u/8132579?s=40)](https://github.com/MaksPluzhnikov)      | 0.5   | первая модель | |
