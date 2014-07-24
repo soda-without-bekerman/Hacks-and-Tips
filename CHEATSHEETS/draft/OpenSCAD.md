@@ -1,10 +1,17 @@
 ## **OPENSCAD CHEATSHEETS**
 
+## **2D ФИГУРЫ**
+
+- *Круг:* *`circle(radius | d=diameter)`*
+- *Площадь:* *`square(size,center)`*
+- *Многоугольник:* *`polygon([points])`*
+
 ## **3D ФИГУРЫ**
 
 - *Куб:* *`cube([width,depth,height])`*
 - *Сфера:* *`sphere(radius | d=diameter)`*
-- *Цилиндер:* *`cylinder(h, r1, r2)`*
+- *Цилиндр:* *`cylinder(h, r1, r2)`*
+- *Многогранник:* *`polyhedron(points, triangles, convexity)`*
 
 ## **Логические Операции:**
 
@@ -23,7 +30,7 @@
 
 - *Куб:* *`cube([9,5,7])`*
 - *Сфера:* *`sphere(5)`*
-- *Цилиндер:* *`cylinder(6, 4, 4)`*
+- *Цилиндр:* *`cylinder(6, 4, 4)`*
  
 
 
