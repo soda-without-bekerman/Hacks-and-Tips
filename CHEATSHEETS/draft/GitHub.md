@@ -5,9 +5,19 @@
 ![](/img/images/draftGitHub1.png)
 
 
-#### 2. В строке `Name your file...`  нужно написать имя папки и добавить символ `/` 
+#### 2. В строке `Name your file...`  нужно написать имя папки 
 
-![](https://github.com/soda-io/Hacks-and-Tips/blob/master/media/images/changing_file_path.png?raw=true)
+![](/img/images/draftGitHub2.png)
+
+#### и не забыть добавить символ `/`
+
+![](/img/images/draftGitHub3.png) 
 
 
 #### 3. Написать любое имя файла (например, `Readme.md`) и нажать на `Commit new file`
+
+![](/img/images/draftGitHub4.png)
+
+#### 4. Радоваться результату)
+
+![](/img/images/draftGitHub5.png)
