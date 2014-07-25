@@ -2,7 +2,7 @@
 
 #### 1. Нажать `Create a new file here`:
 
-![](img/images/draftGitHub1.png)
+![](/img/images/draftGitHub1.png)
 
 
 #### 2. В строке `Name your file...`  нужно написать имя папки и добавить символ `/` 
