@@ -2,7 +2,7 @@
 
 #### 1. Нажать `Create a new file here`:
 
-![](https://github.com/soda-io/Hacks-and-Tips/blob/master/media/images/create_new_file.jpeg?raw=true)
+![](https://github.com/soda-io/Hacks-and-Tips/img/images/draftGitHub1.png)
 
 
 #### 2. В строке `Name your file...`  нужно написать имя папки и добавить символ `/` 
