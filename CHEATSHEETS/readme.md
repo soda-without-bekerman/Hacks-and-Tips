@@ -17,6 +17,8 @@
   
   [Generating SSH Keys](draft/Generating SSH Keys.md)
   
+  [OpenSCAD](draft/OpenSCAD.md)
+  
 ### `production`  
   
   [Git](Git.Hub.md)
