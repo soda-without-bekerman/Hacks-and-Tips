@@ -28,9 +28,9 @@
 
 ## **Примеры:**
 
-- *Куб:* *`cube([9,5,7])`* ![](/img/OpenSCA/DOpenSCAD1)
-- *Сфера:* *`sphere(5)`*
-- *Цилиндр:* *`cylinder(6, 4, 4)`*
+- *Куб:* *`cube([9,5,7])`* ![](/img/OpenSCAD/OpenSCAD1.png)
+- *Сфера:* *`sphere(5)`* ![](/img/OpenSCAD/OpenSCAD2.png)
+- *Цилиндр:* *`cylinder(6, 4, 4)`* ![](/img/OpenSCAD/OpenSCAD3.png)
  
 
 
@@ -44,15 +44,24 @@ translate ([0.5, 0.5, 1.1]) cube ([8, 4, 6]);
 }
 ```
 
+![](/img/OpenSCAD/OpenSCAD4.png)
+
+
 - *Перенос:*
 ```
 translate([2.5, -0.4, 8]) cube([4, 1, 1]);
 ```
 
+![](/img/OpenSCAD/OpenSCAD5.png)
+
+
 - *Вращение по осям:*
 ```
 rotate([90, 0, 0]) translate([2.5, 8.5, -0.6]) cylinder(1, 0.5, 0.5);
 ```
+
+![](/img/OpenSCAD/OpenSCAD6.png)
+
 
 - *Увеличение масштаба:*
 ```
@@ -64,37 +73,20 @@ scale(4, 4, 4)
 color ([0, 0, 1])
 ```
 
+![](/img/OpenSCAD/OpenSCAD7.png)
+
+
 - *Количество граней:*
 ```
 $fn=128;
 ```
+
+![](/img/OpenSCAD/OpenSCAD8.png)
+
 
 - *Выделение фигуры:*
 ```
 #cube ([9, 5, 7]);
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](/img/OpenSCAD/OpenSCAD9.png)
