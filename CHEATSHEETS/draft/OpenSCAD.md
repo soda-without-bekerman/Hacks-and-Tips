@@ -90,3 +90,29 @@ $fn=128;
 ```
 
 ![](/img/OpenSCAD/OpenSCAD9.png)
+
+
+- *Соеденяет все фигуры и дает им общее название:*
+```
+//общее название
+module rvk(){
+difference () {
+cylinder (3,15,15,$fn=3) ;
+translate ([0,0,-1])rotate(180, 0, 0) cylinder (7,7,7,$fn=3) ;
+}
+translate ([11.5,-6,0])rotate(180, 0, 0) cylinder (3,7,7,$fn=3) ;
+translate ([-11,-7,])rotate(180, 0, 0)cylinder (3,7,7,$fn=3) ;
+}
+
+translate ([0,2,0])scale ([0.7,0.7,1]) rvk();
+```
+
+- *Соеденяет все фигуры в одну* 
+```
+$fn=128 ;
+//команда соеденения 
+union () {
+cylinder (30,5,5) ;
+rotate ([90,0,0]) translate ([0,15,-15]) cylinder (30,5,5) ;
+}
+```
