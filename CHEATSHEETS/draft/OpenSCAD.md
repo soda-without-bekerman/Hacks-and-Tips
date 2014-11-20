@@ -94,16 +94,7 @@ $fn=128;
 
 - *Соеденяет все фигуры и дает им общее название:*
 ```
-$fn=128 ;
-translate ([0,0,1]) difference () {
-cylinder (r1=15,r2=15,h=2) ;
-translate ([0,0,-0.5]) cylinder (r1=12.5,r2=12.5,h=3) ;
-}
-cylinder (r1=15,r2=15,h=2) ;
-
-
-x=5 ;
-h=4 ;
+//общее название
 module rvk(){
 difference () {
 cylinder (3,15,15,$fn=3) ;
@@ -119,6 +110,7 @@ translate ([0,2,0])scale ([0.7,0.7,1]) rvk();
 - *Соеденяет все фигуры в одну* 
 ```
 $fn=128 ;
+//команда соеденения 
 union () {
 cylinder (30,5,5) ;
 rotate ([90,0,0]) translate ([0,15,-15]) cylinder (30,5,5) ;
