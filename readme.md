@@ -1,4 +1,3 @@
-![](img/soda-logo.png) 
 
 ![](https://cloud.githubusercontent.com/assets/3838734/5379970/c09e2c36-80a5-11e4-80c5-647b725151f8.png) Hacks & Tips
 ===
