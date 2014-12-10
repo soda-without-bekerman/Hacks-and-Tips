@@ -1,12 +1,10 @@
 ![](img/soda-logo.png) 
 
-![](https://avatars0.githubusercontent.com/u/6559911?s=28) Hacks & Tips
+![](https://cloud.githubusercontent.com/assets/3838734/5379970/c09e2c36-80a5-11e4-80c5-647b725151f8.png) Hacks & Tips
 ===
 
 #### Репозиторий для хаков, подсказок, ответов на вопросы
 
-
-## == КАРМА == [>>](karma.md)
 
 ===============
 
@@ -22,13 +20,6 @@
 - [Родители](DOCS/RULES/PARENTS.md)
 - [Учителя](DOCS/RULES/TEACHERS.md)
 - [Менторы](DOCS/RULES/MENTORS.md)
-
-***
-
-### == ЭКЗАМЕНЫ == [>>](TEST)
-
- - [Вопросы](EXAMS/QUESTIONS)
- - [Ответы](EXAMS/ANSWERS)
 
 
 ***
