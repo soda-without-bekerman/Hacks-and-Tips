@@ -1,27 +1,20 @@
 ![](https://avatars0.githubusercontent.com/u/6559911?s=29) ПОДСКАЗКИ
 ===
 
-### `draft`
 
-  [Emacs](draft/Emacs.md)
+  [Emacs](Emacs.md)
 	
-  [Ubuntu](draft/Ubuntu.md)
+  [Ubuntu](Ubuntu.md)
   
-  [Markdown](draft/Markdown.md)
+  [Markdown](Markdown.md)
 
-  [GitHub](draft/GitHub.md)
+  [GitHub](GitHub.md)
 
-  [Команды bash](draft/bash:commands.md)
+  [Команды bash](bash_commands.md)
   
-  [Trello](draft/Trello.md)
-  
-  [Generating SSH Keys](draft/Generating SSH Keys.md)
+  [Generating SSH Keys](Generating SSH Keys.md)
   
   [OpenSCAD](draft/OpenSCAD.md)
-  
-### `production`  
-  
-  [Git](Git.Hub.md)
 
   [MACOSX](MACOSX.md)
 	
