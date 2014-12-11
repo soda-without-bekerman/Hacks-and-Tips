@@ -22,7 +22,7 @@
 
 ***
 
-### == ШПАРГАЛКИ == [>>](CHEATSHEETS)
+### == ШПАРГАЛКИ == >>
 
  - [Markdown](CHEATSHEETS/Markdown.md)
  - [OpenSCAD](CHEATSHEETS/OpenSCAD.md)
