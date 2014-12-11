@@ -1,5 +1,5 @@
 
-![](https://cloud.githubusercontent.com/assets/3838734/5379970/c09e2c36-80a5-11e4-80c5-647b725151f8.png) Hacks & Tips
+![](https://cloud.githubusercontent.com/assets/3838734/5398610/b581746e-8174-11e4-884e-5f683c96afb6.png) Hacks & Tips
 ===
 
 #### Репозиторий для хаков, подсказок, ответов на вопросы
@@ -17,24 +17,23 @@
 
 //
 - [Родители](DOCS/RULES/PARENTS.md)
-- [Учителя](DOCS/RULES/TEACHERS.md)
-- [Менторы](DOCS/RULES/MENTORS.md)
+
 
 
 ***
 
 ### == ШПАРГАЛКИ == [>>](CHEATSHEETS)
 
- - [Markdown](CHEATSHEETS/draft/Markdown.md)
- - [OpenSCAD](CHEATSHEETS/draft/OpenSCAD.md)
- - [Emacs](CHEATSHEETS/draft/Emacs.md)
+ - [Markdown](CHEATSHEETS/Markdown.md)
+ - [OpenSCAD](CHEATSHEETS/OpenSCAD.md)
+ - [Emacs](CHEATSHEETS/Emacs.md)
  - [Emacs:настройка](CHEATSHEETS/emacs-setup.md)
  - [Git](CHEATSHEETS/Git.Hub.md)
- - [GitHub](CHEATSHEETS/draft/GitHub.md)
- - [Ubuntu](CHEATSHEETS/draft/Ubuntu.md)
- - [Bash:commands](CHEATSHEETS/draft/bash:commands.md)
+ - [GitHub](CHEATSHEETS/GitHub.md)
+ - [Ubuntu](CHEATSHEETS/Ubuntu.md)
+ - [Bash:commands](CHEATSHEETS/bash:commands.md)
  - [Query-language](CHEATSHEETS/Query-language.md)
- - [Foursquare](EXAMS/ANSWERS/Foursquare.md)
+
  
  
 ***
