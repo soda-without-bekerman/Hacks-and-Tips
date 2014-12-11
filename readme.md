@@ -28,10 +28,9 @@
  - [OpenSCAD](CHEATSHEETS/OpenSCAD.md)
  - [Emacs](CHEATSHEETS/Emacs.md)
  - [Emacs:настройка](CHEATSHEETS/emacs-setup.md)
- - [Git](CHEATSHEETS/Git.Hub.md)
  - [GitHub](CHEATSHEETS/GitHub.md)
  - [Ubuntu](CHEATSHEETS/Ubuntu.md)
- - [Bash:commands](CHEATSHEETS/bash:commands.md)
+ - [Bash:commands](CHEATSHEETS/bash_commands.md)
  - [Query-language](CHEATSHEETS/Query-language.md)
 
  
