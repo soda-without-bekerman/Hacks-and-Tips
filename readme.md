@@ -22,7 +22,7 @@
 
 ***
 
-### == ШПАРГАЛКИ == >>
+### == ШПАРГАЛКИ == [>>](CHEATSHEETS)
 
  - [Markdown](CHEATSHEETS/Markdown.md)
  - [OpenSCAD](CHEATSHEETS/OpenSCAD.md)
@@ -37,7 +37,7 @@
  
 ***
 
-### == WISHLIST == [>>](WISHLIST)
+### == WISHLIST == >>
 
  - `люди`
  - `события`
