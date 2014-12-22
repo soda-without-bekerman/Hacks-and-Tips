@@ -17,7 +17,9 @@
 
 ## **Логические Операции:**
 
-- *Вырезание одной фигуры из другой:* *`difference()`*
+- *Вырезание одной фигуры из другой:* *`difference()`* ![](https://cloud.githubusercontent.com/assets/8076405/5525219/172be162-89eb-11e4-8894-1ecdfb7ac36a.png)
+![](https://cloud.githubusercontent.com/assets/8076405/5525231/3a437160-89eb-11e4-8cb9-f03181c8736c.png)
+- *Вырезание общей части двух фигур:* *'intersection() {}`* ![](https://cloud.githubusercontent.com/assets/8076405/5525100/634f117e-89e9-11e4-9623-0c8be1e78c62.png) ![](https://cloud.githubusercontent.com/assets/8076405/5525131/d4b27446-89e9-11e4-9fc8-e981b393f50b.png)
 
 ## **Преобразования**
 
