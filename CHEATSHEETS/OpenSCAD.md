@@ -2,8 +2,10 @@
 
 ## **2D ФИГУРЫ**
 
-- *Круг:* *`circle(radius | d=diameter)`*
-- *Площадь:* *`square(size,center)`*
+- *Круг:* *`circle(radius | d=diameter)`* ![] (https://cloud.githubusercontent.com/assets/8076405/5519030/25d65e74-8949-11e4-9d68-637e33ba1230.png)
+
+- *Площадь:* *`square(size,center)`* ![](https://cloud.githubusercontent.com/assets/8076405/5519043/b18e9da0-8949-11e4-8a0f-9c02f78c230b.png)
+
 - *Многоугольник:* *`polygon([points])`*
 
 ## **3D ФИГУРЫ**
@@ -116,3 +118,4 @@ cylinder (30,5,5) ;
 rotate ([90,0,0]) translate ([0,15,-15]) cylinder (30,5,5) ;
 }
 ```
+
