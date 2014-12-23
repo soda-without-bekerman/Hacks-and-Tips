@@ -1,18 +1,51 @@
 ## **OPENSCAD CHEATSHEETS**
 
+Знак `//` обозначает комментарий. После комментария до конца строки код не выполняется.
+
+После оператора создания фигуры ставится `;`
+
+Единицы измерения - миллиметры.
+
 ## **2D ФИГУРЫ**
 
-- *Круг:* *`circle(radius | d=diameter)`* ![] (https://cloud.githubusercontent.com/assets/8076405/5519030/25d65e74-8949-11e4-9d68-637e33ba1230.png)
+Не предназначены для печати напрямую.
 
-- *Площадь:* *`square(size,center)`* ![](https://cloud.githubusercontent.com/assets/8076405/5519043/b18e9da0-8949-11e4-8a0f-9c02f78c230b.png)
+- *Круг:* *`circle(r=radius)`*
 
-- *Многоугольник:* *`polygon([points])`*
+```
+circle(10);  // круг, диаметором 1см
+circle(r=4); // круг, диаметором 0.8см
+```
+
+![](/img/OpenSCAD/circle.png)
+
+
+- *Площадь:* *`square(size)`*
+
+```
+square(10);       // квадрат со стороной 1см
+square([10,20]);  // прямоугольник со сторонами 1x2 см
+```
+
+![](/img/OpenSCAD/square.png)
+
+
+- *Многоугольник:* *`polygon([[point], [point], [point], ...])`*
+
+```
+polygon([[10,10], [10,20], [12.5,12.5], [20, 10]]);
+```
+
+![](/img/OpenSCAD/polygon.png)
 
 ## **3D ФИГУРЫ**
 
 - *Куб:* *`cube([width,depth,height])`*
+
 - *Сфера:* *`sphere(radius | d=diameter)`*
+
 - *Цилиндр:* *`cylinder(h, r1, r2)`*
+
 - *Многогранник:* *`polyhedron(points, triangles, convexity)`*
 
 ## **Логические Операции:**
@@ -96,7 +129,7 @@ $fn=128;
 ![](/img/OpenSCAD/OpenSCAD9.png)
 
 
-- *Соеденяет все фигуры и дает им общее название:*
+- *Соединяет все фигуры и дает им общее название:*
 ```
 //общее название
 module rvk(){
@@ -114,7 +147,7 @@ translate ([0,2,0])scale ([0.7,0.7,1]) rvk();
 - *Соеденяет все фигуры в одну* 
 ```
 $fn=128 ;
-//команда соеденения 
+//команда соединения 
 union () {
 cylinder (30,5,5) ;
 rotate ([90,0,0]) translate ([0,15,-15]) cylinder (30,5,5) ;
