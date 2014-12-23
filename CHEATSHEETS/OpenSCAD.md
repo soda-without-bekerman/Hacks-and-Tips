@@ -40,11 +40,31 @@ polygon([[10,10], [10,20], [12.5,12.5], [20, 10]]);
 
 ## **3D ФИГУРЫ**
 
-- *Куб:* *`cube([width,depth,height])`*
 
-- *Сфера:* *`sphere(radius | d=diameter)`*
+- *Куб:* *`cube([X, Y, Z]|size)`*
+```
+cube(10); // куб со стороной 1см
+cube([9, 5, 7]); // параллелепипед размерами 9x5x7мм
+```
+![](/img/OpenSCAD/OpenSCAD1.png)
+
+- *Сфера:* *`sphere(radius)`*
+
+```
+sphere(10);  // сфера с радиусом 1см
+```
+
+![](/img/OpenSCAD/OpenSCAD2.png)
 
 - *Цилиндр:* *`cylinder(h, r1, r2)`*
+
+```
+cylinder(h=4, r1=6, r2=6); // цилиндр
+cylinder(h=10, r1=10, r2=0); // конус
+cylinder(h=10, r1=10, r2=5); // усеченный конус
+```
+![](/img/OpenSCAD/OpenSCAD3.png)
+
 
 - *Многогранник:* *`polyhedron(points, triangles, convexity)`*
 
