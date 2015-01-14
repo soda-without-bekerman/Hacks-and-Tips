@@ -1,5 +1,5 @@
 
-![](https://cloud.githubusercontent.com/assets/3838734/5398610/b581746e-8174-11e4-884e-5f683c96afb6.png) Hacks & Tips
+![g32331](https://cloud.githubusercontent.com/assets/3838734/5749291/b44b74f6-9c58-11e4-92d5-7351ecb3cf41.png) Hacks & Tips
 ===
 
 #### Репозиторий для хаков, подсказок, ответов на вопросы
